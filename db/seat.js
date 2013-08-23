@@ -1,4 +1,4 @@
-return [{
+exports.data = [{
     "floor": "A4",
     "seatNumber": "A4-01-01",
     "realName": "张翼",

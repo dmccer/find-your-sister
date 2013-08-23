@@ -1,4 +1,4 @@
-return [{
+exports.data = [{
     "loginId": "0002882",
     "realName": "毕德亮",
     "department": "业务运营与系统",
