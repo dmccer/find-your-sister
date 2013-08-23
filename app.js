@@ -8,6 +8,7 @@ var routes = require('./routes')
 var person = require('./routes/person')
 var location = require('./routes/location')
 var user = require('./routes/user')
+var dper = require('./routes/dper')
 var card = require('./routes/card')
 var seat = require('./routes/seat')
 var meeting = require('./routes/meeting')
@@ -37,13 +38,15 @@ if ('development' == app.get('env')) {
 }
 
 app.get('/', routes.index)
-app.get('/users', user.list)
 app.get('/card/name/:name', card.getByName)
 app.get('/card/dept/:dept', card.getByDept)
 app.get('/seat/:name', seat.getByName)
-app.get('/meeting/:email', meeting.getByEmail)
 app.get('/person', person.info)
 app.get('/location', location.info)
+app.get('/meeting/room/:email', meeting.getByEmail)
+app.get('/meeting/dper/:dper', meeting.getByDper)
+app.get('/meeting/dper/:dper/now', meeting.get_deper_current_room)
+app.get('/dper/:employeeId', dper.getByEmployeeId)
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'))
