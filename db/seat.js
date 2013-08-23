@@ -1,0 +1,4257 @@
+return [{
+    "floor": "A4",
+    "seatNumber": "A4-01-01",
+    "realName": "张翼",
+    "loginId": "1002",
+    "department": "平台架构",
+    "phoneType": "CISCO",
+    "phoneNumber": "1726"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-01-02",
+    "realName": "孟涛",
+    "loginId": "4339",
+    "department": "平台架构",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-01-03",
+    "realName": "陈昱康",
+    "loginId": "9000063",
+    "department": "平台架构",
+    "phoneType": "CISCO",
+    "phoneNumber": "1809"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-01-04",
+    "realName": "朱广彬",
+    "loginId": "3612",
+    "department": "平台架构",
+    "phoneType": "CISCO",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-02-05",
+    "realName": "房明",
+    "loginId": "1428",
+    "department": "平台架构",
+    "phoneType": "CISCO",
+    "phoneNumber": "1811"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-02-06",
+    "realName": "金澜涛",
+    "loginId": "4345",
+    "department": "平台架构",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-02-08",
+    "realName": "王冰",
+    "loginId": "1408",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1739"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-03-09",
+    "realName": "唐弘頔",
+    "loginId": "2226",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1835"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-03-10",
+    "realName": "周晓敏",
+    "loginId": "3561",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1872"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-03-11",
+    "realName": "王静",
+    "loginId": "3039",
+    "department": "数据平台",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-03-12",
+    "realName": "吴经",
+    "loginId": "4499",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1975"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-03-13",
+    "realName": "陈雄",
+    "loginId": "9001253",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1930"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-03-14",
+    "realName": "邹玉静",
+    "loginId": "9001431",
+    "department": "数据平台",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-03-15",
+    "realName": "赵昊宇",
+    "loginId": "9001433",
+    "department": "数据平台",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-04-17",
+    "realName": "陈月",
+    "loginId": "9001467",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7802"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-04-18",
+    "realName": "郑瑜莹",
+    "loginId": "9000034",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7713"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-04-19",
+    "realName": "刘晓燕",
+    "loginId": "21",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7661"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-04-20",
+    "realName": "冷飞",
+    "loginId": "3285",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7720"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-04-22",
+    "realName": "肖胜男",
+    "loginId": "9001314",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7801"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-04-23",
+    "realName": "商来瑞",
+    "loginId": "9000318",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7770"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-04-24",
+    "realName": "覃燕妮",
+    "loginId": "9000307",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7767"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-05-25",
+    "realName": "陈地树",
+    "loginId": "3590",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1873"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-05-26",
+    "realName": "许景楠",
+    "loginId": "4340",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1957"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-05-29",
+    "realName": "姚宇捷",
+    "loginId": "3814",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1900"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-05-30",
+    "realName": "陈小梦",
+    "loginId": "2317",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1838"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-05-31",
+    "realName": "凤成",
+    "loginId": "9000198",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1870"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-06-32",
+    "realName": "邢晨",
+    "loginId": "3141",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1928"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-06-33",
+    "realName": "刘瓛",
+    "loginId": "2203",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7732"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-06-34",
+    "realName": "陈晓君",
+    "loginId": "4104",
+    "department": "",
+    "phoneType": "CISCO",
+    "phoneNumber": "7789"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-06-36",
+    "realName": "汤晨凤",
+    "loginId": "9001494",
+    "department": "产品部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-06-37",
+    "realName": "张朱虹",
+    "loginId": "9001356",
+    "department": "产品部",
+    "phoneType": "",
+    "phoneNumber": "无"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-06-38",
+    "realName": "周珊珊",
+    "loginId": "815",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7681"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-06-39",
+    "realName": "余欢",
+    "loginId": "9001321",
+    "department": "产品部",
+    "phoneType": "",
+    "phoneNumber": "无"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-07-40",
+    "realName": "陆刚",
+    "loginId": "3675",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1885"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-07-41",
+    "realName": "王琳",
+    "loginId": "9001394",
+    "department": "数据平台",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-07-42",
+    "realName": "岳小宁",
+    "loginId": "9001435",
+    "department": "数据产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-07-44",
+    "realName": "闫剑锋",
+    "loginId": "2877",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1861"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-07-45",
+    "realName": "张磊",
+    "loginId": "2067",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1826"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-07-46",
+    "realName": "周希",
+    "loginId": "4670",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1967"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-08-48",
+    "realName": "姜蓓萱",
+    "loginId": "9000337",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7769"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-08-49",
+    "realName": "尹超",
+    "loginId": "9001329",
+    "department": "产品部",
+    "phoneType": "",
+    "phoneNumber": "无"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-08-50",
+    "realName": "周茵",
+    "loginId": "9001462",
+    "department": "产品部",
+    "phoneType": "3G",
+    "phoneNumber": "2160440594"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-08-51",
+    "realName": "杨令霏",
+    "loginId": "9001532",
+    "department": "产品部",
+    "phoneType": "",
+    "phoneNumber": "无"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-09-56",
+    "realName": "赵宏",
+    "loginId": "1933",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1777"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-09-60",
+    "realName": "王晓宁",
+    "loginId": "4251",
+    "department": "数据平台",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-09-61",
+    "realName": "韩钊",
+    "loginId": "2226",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1835"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-09-62",
+    "realName": "曹一帆",
+    "loginId": "9000374",
+    "department": "数据平台",
+    "phoneType": "CISCO",
+    "phoneNumber": "1855"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-10-63",
+    "realName": "程俊霞",
+    "loginId": "9001499",
+    "department": "数据平台",
+    "phoneType": "",
+    "phoneNumber": "无"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-10-64",
+    "realName": "黄国强",
+    "loginId": "9001500",
+    "department": "数据平台",
+    "phoneType": "",
+    "phoneNumber": "无"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-10-65",
+    "realName": "魏晓晨",
+    "loginId": "9001545",
+    "department": "搜索",
+    "phoneType": "",
+    "phoneNumber": "无"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-10-66",
+    "realName": "朱正文",
+    "loginId": "9001440",
+    "department": "搜索",
+    "phoneType": "",
+    "phoneNumber": "无"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-10-68",
+    "realName": "王星",
+    "loginId": "9001504",
+    "department": "算法",
+    "phoneType": "",
+    "phoneNumber": "无"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-10-69",
+    "realName": "李徐艳",
+    "loginId": "9001505",
+    "department": "算法",
+    "phoneType": "",
+    "phoneNumber": "无"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-10-70",
+    "realName": "李东华",
+    "loginId": "9001441",
+    "department": "搜索",
+    "phoneType": "",
+    "phoneNumber": "无"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-11-71",
+    "realName": "周天文",
+    "loginId": "519",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "1629"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-10-73",
+    "realName": "段华杰",
+    "loginId": "9001191",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "13296080845"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-11-74",
+    "realName": "高尚",
+    "loginId": "3862",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "1909"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-11-76",
+    "realName": "朱小凡",
+    "loginId": "3988",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7786"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-11-78",
+    "realName": "李小鹏",
+    "loginId": "3703",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-11-79",
+    "realName": "赵利霞",
+    "loginId": "9000192",
+    "department": "QA",
+    "phoneType": "",
+    "phoneNumber": "无"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-11-80",
+    "realName": "王观海",
+    "loginId": "4626",
+    "department": "算法",
+    "phoneType": "CISCO",
+    "phoneNumber": "1983"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-11-81",
+    "realName": "朱坛超",
+    "loginId": "9000857",
+    "department": "算法",
+    "phoneType": "CISCO",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-11-82",
+    "realName": "程兵",
+    "loginId": "9000351",
+    "department": "算法",
+    "phoneType": "CISCO",
+    "phoneNumber": "1879"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-11-83",
+    "realName": "蔡平",
+    "loginId": "4337",
+    "department": "算法",
+    "phoneType": "",
+    "phoneNumber": "13641871312"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-12-84",
+    "realName": "林奔",
+    "loginId": "9000381",
+    "department": "算法",
+    "phoneType": "CISCO",
+    "phoneNumber": "1853"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-12-85",
+    "realName": "马尧",
+    "loginId": "9001046",
+    "department": "算法",
+    "phoneType": "CISCO",
+    "phoneNumber": "1952"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-12-86",
+    "realName": "沈丹",
+    "loginId": "2000",
+    "department": "算法",
+    "phoneType": "CISCO",
+    "phoneNumber": "1820"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-12-87",
+    "realName": "陈文石",
+    "loginId": "9000557",
+    "department": "算法",
+    "phoneType": "CISCO",
+    "phoneNumber": "1921"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-12-92",
+    "realName": "曾少斌",
+    "loginId": "4478",
+    "department": "搜索",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-13-96",
+    "realName": "杨一帆",
+    "loginId": "4279",
+    "department": "算法",
+    "phoneType": "",
+    "phoneNumber": "18616279131"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-13-97",
+    "realName": "汤彪",
+    "loginId": "4338",
+    "department": "算法",
+    "phoneType": "",
+    "phoneNumber": "13482690259"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-13-98",
+    "realName": "谢睿",
+    "loginId": "9001038",
+    "department": "算法",
+    "phoneType": "CISCO",
+    "phoneNumber": "1932"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-13-100",
+    "realName": "樊龙夫",
+    "loginId": "3142",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "1973"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-13-101",
+    "realName": "曹佐",
+    "loginId": "4358",
+    "department": "基础产品",
+    "phoneType": "",
+    "phoneNumber": "18502146345"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-13-102",
+    "realName": "刘友强",
+    "loginId": "9001050",
+    "department": "基础产品",
+    "phoneType": "",
+    "phoneNumber": "13671627639"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-13-103",
+    "realName": "王强",
+    "loginId": "9000566",
+    "department": "基础产品",
+    "phoneType": "",
+    "phoneNumber": "13636501595"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-15-112",
+    "realName": "田辉",
+    "loginId": "4247",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "1933"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-15-113",
+    "realName": "沈俊秀",
+    "loginId": "9000056",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "8380"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-15-114",
+    "realName": "李珊",
+    "loginId": "749",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "3772"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-15-116",
+    "realName": "张梦兵",
+    "loginId": "68",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "3773"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-15-117",
+    "realName": "陈俊杰",
+    "loginId": "9000084",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "18821009327"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-15-118",
+    "realName": "成莫茵",
+    "loginId": "9000761",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "18821167462"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-15-119",
+    "realName": "徐梦琦",
+    "loginId": "9000762",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "18821171094"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-16-120",
+    "realName": "张俊",
+    "loginId": "2905",
+    "department": "基础产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-16-121",
+    "realName": "张轶斌",
+    "loginId": "2404",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "1892"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-16-122",
+    "realName": "王文涛",
+    "loginId": "9001049",
+    "department": "基础产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-16-123",
+    "realName": "张翼",
+    "loginId": "4609",
+    "department": "基础产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-16-124",
+    "realName": "朱青祥",
+    "loginId": "4341",
+    "department": "基础产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-16-125",
+    "realName": "李文韬",
+    "loginId": "3287",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "1893"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-16-126",
+    "realName": "曾体尧",
+    "loginId": "9001052",
+    "department": "基础产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-16-127",
+    "realName": "邰寅",
+    "loginId": "9001351",
+    "department": "基础产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-17-128",
+    "realName": "周勤超",
+    "loginId": "583",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "18801678370"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-17-129",
+    "realName": "季李莉",
+    "loginId": "756",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "3788"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-17-131",
+    "realName": "姚金妹",
+    "loginId": "2246",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "61848560"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-17-132",
+    "realName": "郑婷",
+    "loginId": "4354",
+    "department": "产品",
+    "phoneType": "3G",
+    "phoneNumber": "60440536"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-17-133",
+    "realName": "肖佳丽",
+    "loginId": "9000677",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "15721016773"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-17-134",
+    "realName": "陶金",
+    "loginId": "9000153",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "18801678267"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-17-135",
+    "realName": "陈任",
+    "loginId": "Z900305",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "60511946"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-18-136",
+    "realName": "唐灏",
+    "loginId": "57",
+    "department": "研发管理",
+    "phoneType": "CISCO",
+    "phoneNumber": "1666"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-18-137",
+    "realName": "瞿小丽",
+    "loginId": "4280",
+    "department": "研发管理",
+    "phoneType": "CISCO",
+    "phoneNumber": "1666"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-18-138",
+    "realName": "林晶",
+    "loginId": "1660",
+    "department": "研发管理",
+    "phoneType": "CISCO",
+    "phoneNumber": "1953"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-18-139",
+    "realName": "蒙雅茹",
+    "loginId": "8000001",
+    "department": "研发管理",
+    "phoneType": "CISCO",
+    "phoneNumber": "1953"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-18-140",
+    "realName": "陆叶娟",
+    "loginId": "3182",
+    "department": "研发管理",
+    "phoneType": "CISCO",
+    "phoneNumber": "7760"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-18-141",
+    "realName": "王玉婷",
+    "loginId": "4102",
+    "department": "研发管理",
+    "phoneType": "CISCO",
+    "phoneNumber": "1757"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-18-142",
+    "realName": "陈浩文",
+    "loginId": "9001484",
+    "department": "研发管理",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-18-143",
+    "realName": "孙佳玲",
+    "loginId": "9001425",
+    "department": "研发管理",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-20-147",
+    "realName": "李晶晶",
+    "loginId": "221",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "3779"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-20-148",
+    "realName": "陶桑",
+    "loginId": "751",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "15721016775"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-20-149",
+    "realName": "侯登辉",
+    "loginId": "9001533",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "15721037404"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-20-150",
+    "realName": "苗挺",
+    "loginId": "4",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "3771"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-20-151",
+    "realName": "翁雯君",
+    "loginId": "859",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "3787"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-20-153",
+    "realName": "闫思远",
+    "loginId": "9000163",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "18821009287"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-20-154",
+    "realName": "常远",
+    "loginId": "85",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "3777"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-21-156",
+    "realName": "丁然",
+    "loginId": "9001508",
+    "department": "基础产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-21-157",
+    "realName": "冯凯旋",
+    "loginId": "9001509",
+    "department": "基础产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-21-158",
+    "realName": "常瑞",
+    "loginId": "4827",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7799"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-21-159",
+    "realName": "秦薇薇",
+    "loginId": "84",
+    "department": "产品",
+    "phoneType": "3G",
+    "phoneNumber": "60540603"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-21-160",
+    "realName": "王雅琼",
+    "loginId": "710",
+    "department": "产品",
+    "phoneType": "3G",
+    "phoneNumber": "18801678533"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-21-161",
+    "realName": "陈晴晴",
+    "loginId": "9000199",
+    "department": "产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-22-163",
+    "realName": "毕琰",
+    "loginId": "9001493",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "61848570"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-22-164",
+    "realName": "陈庆",
+    "loginId": "9000085",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "60540675"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-22-165",
+    "realName": "周蕾蕾",
+    "loginId": "2276",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "18821167483"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-22-166",
+    "realName": "金溟南",
+    "loginId": "9000523",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "15721058127"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-17-130",
+    "realName": "朱逢元",
+    "loginId": "1945",
+    "department": "基础产品",
+    "phoneType": "3G",
+    "phoneNumber": "18821171742"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-22-170",
+    "realName": "沐广武",
+    "loginId": "9000558",
+    "department": "基础产品",
+    "phoneType": "",
+    "phoneNumber": "13700224179"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-23-171",
+    "realName": "马珺",
+    "loginId": "9000531",
+    "department": "产品",
+    "phoneType": "3G",
+    "phoneNumber": "18801636975"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-23-172",
+    "realName": "谷禹",
+    "loginId": "9000539",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "1919"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-23-174",
+    "realName": "徐茂龙",
+    "loginId": "3871",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7772"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-23-175",
+    "realName": "高云璐",
+    "loginId": "9000382",
+    "department": "基础产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "1878"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-23-176",
+    "realName": "邵纪东",
+    "loginId": "3613",
+    "department": "技术",
+    "phoneType": "CISCO",
+    "phoneNumber": "1908"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-23-177",
+    "realName": "王新春",
+    "loginId": "4096",
+    "department": "技术",
+    "phoneType": "CISCO",
+    "phoneNumber": "1916"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-23-178",
+    "realName": "肖承",
+    "loginId": "9001020",
+    "department": "技术",
+    "phoneType": "CISCO",
+    "phoneNumber": "1916"
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-17-13a",
+    "realName": "陈美丽",
+    "loginId": "9001393",
+    "department": "基础产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-17-15a",
+    "realName": "丁欣",
+    "loginId": "9001427",
+    "department": "搜索产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A4",
+    "seatNumber": "A4-17-16a",
+    "realName": "靳达谦",
+    "loginId": "9001416",
+    "department": "基础产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-01-06",
+    "realName": "曹夙聪",
+    "loginId": "9000072",
+    "department": "产品部",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-01-07",
+    "realName": "郑瑜莹",
+    "loginId": "9000034",
+    "department": "产品部",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-02-14",
+    "realName": "李博",
+    "loginId": "9000041",
+    "department": "技术部",
+    "phoneType": "cisco",
+    "phoneNumber": "1786"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-02-15",
+    "realName": "沈杰",
+    "loginId": "4384",
+    "department": "技术部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-03-16",
+    "realName": "刘亮",
+    "loginId": "1666",
+    "department": "技术部",
+    "phoneType": "cisco",
+    "phoneNumber": "1795"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-03-17",
+    "realName": "董彬",
+    "loginId": "9001516",
+    "department": "技术部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-03-20",
+    "realName": "高甜甜",
+    "loginId": "1292",
+    "department": "技术部",
+    "phoneType": "cisco",
+    "phoneNumber": "1790"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-03-21",
+    "realName": "黄亿华",
+    "loginId": "3616",
+    "department": "技术部",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-03-22",
+    "realName": "周怡婷",
+    "loginId": "782",
+    "department": "qa",
+    "phoneType": "cisco",
+    "phoneNumber": "1701"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-03-23",
+    "realName": "徐嘉轶",
+    "loginId": "9000032",
+    "department": "技术部",
+    "phoneType": "cisco",
+    "phoneNumber": "1803"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-04-24",
+    "realName": "杨光平",
+    "loginId": "9000482",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-04-25",
+    "realName": "茅旭",
+    "loginId": "759",
+    "department": "技术部",
+    "phoneType": "cisco",
+    "phoneNumber": "1697"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-04-26",
+    "realName": "刘岩",
+    "loginId": "589",
+    "department": "技术部",
+    "phoneType": "cisco",
+    "phoneNumber": "1657"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-04-28",
+    "realName": "韩静",
+    "loginId": "9001501",
+    "department": "技术部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-04-29",
+    "realName": "张杰",
+    "loginId": "9000799",
+    "department": "技术部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-04-30",
+    "realName": "刘华",
+    "loginId": "1837",
+    "department": "技术部",
+    "phoneType": "cisco",
+    "phoneNumber": "1796"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-05-31",
+    "realName": "陆鑫",
+    "loginId": "4576",
+    "department": "技术部",
+    "phoneType": "cisico",
+    "phoneNumber": "1965"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-05-33",
+    "realName": "林淼",
+    "loginId": "728",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1891"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-05-34",
+    "realName": "马文涛",
+    "loginId": "4347",
+    "department": "技术部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-05-35",
+    "realName": "吴松",
+    "loginId": "9000661",
+    "department": "技术部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-05-36",
+    "realName": "霍一杰",
+    "loginId": "4401",
+    "department": "技术部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-05-38",
+    "realName": "宋立森",
+    "loginId": "4809",
+    "department": "技术部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-06-40",
+    "realName": "陶云霜",
+    "loginId": "3813",
+    "department": "技术部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-06-41",
+    "realName": "陈洁",
+    "loginId": "707",
+    "department": "QA",
+    "phoneType": "cisco",
+    "phoneNumber": "1685"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-06-43",
+    "realName": "李晓哲",
+    "loginId": "3591",
+    "department": "信息线",
+    "phoneType": "cisco",
+    "phoneNumber": "1890"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-06-44",
+    "realName": "吴俊",
+    "loginId": "1302",
+    "department": "信息线",
+    "phoneType": "cisco",
+    "phoneNumber": "1789"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-06-80",
+    "realName": "张晓辉",
+    "loginId": "1183",
+    "department": "信息线",
+    "phoneType": "cisco",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-07-46",
+    "realName": "刘伟琛",
+    "loginId": "748",
+    "department": "内容运营（信息线）",
+    "phoneType": "cisco",
+    "phoneNumber": "7677"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-07-47",
+    "realName": "陈郦",
+    "loginId": "928",
+    "department": "内容运营（信息线）",
+    "phoneType": "",
+    "phoneNumber": "7696"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-07-48",
+    "realName": "董兰兰",
+    "loginId": "2267",
+    "department": "内容运营（信息线）",
+    "phoneType": "3g",
+    "phoneNumber": "61848532"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-07-49",
+    "realName": "刘力名",
+    "loginId": "9000869",
+    "department": "qa",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-07-50",
+    "realName": "马明兴",
+    "loginId": "867",
+    "department": "信息线",
+    "phoneType": "",
+    "phoneNumber": "1711"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-07-51",
+    "realName": "许文涛",
+    "loginId": "3753",
+    "department": "信息线",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-07-52",
+    "realName": "邓雅云",
+    "loginId": "9000045",
+    "department": "qa",
+    "phoneType": "cisco",
+    "phoneNumber": "1760"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-07-53",
+    "realName": "吴俊杰",
+    "loginId": "9000243",
+    "department": "信息线",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-07-54",
+    "realName": "梁晨",
+    "loginId": "9001513",
+    "department": "信息线",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-08-55",
+    "realName": "王文景",
+    "loginId": "9000033",
+    "department": "信息线",
+    "phoneType": "cisco",
+    "phoneNumber": "1783"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-08-56",
+    "realName": "陆经天",
+    "loginId": "761",
+    "department": "信息线",
+    "phoneType": "cisco",
+    "phoneNumber": "1698"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-08-57",
+    "realName": "章成锋",
+    "loginId": "1969",
+    "department": "信息线",
+    "phoneType": "cisco",
+    "phoneNumber": "1821"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-08-58",
+    "realName": "吕波",
+    "loginId": "4349",
+    "department": "信息线",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-08-60",
+    "realName": "张晓辉",
+    "loginId": "",
+    "department": "信息线",
+    "phoneType": "cisco",
+    "phoneNumber": "1732"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-08-61",
+    "realName": "董莲",
+    "loginId": "",
+    "department": "信息线",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-08-62",
+    "realName": "孙青",
+    "loginId": "",
+    "department": "qa",
+    "phoneType": "cisco",
+    "phoneNumber": "1819"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-09-63",
+    "realName": "吴丽",
+    "loginId": "9000120",
+    "department": "qa",
+    "phoneType": "cisco",
+    "phoneNumber": "1753"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-10-71",
+    "realName": "侯玉涛",
+    "loginId": "951",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-10-72",
+    "realName": "王晓燕",
+    "loginId": "4030",
+    "department": "技术部",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-10-73",
+    "realName": "郑君涵",
+    "loginId": "9000070",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1808"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-10-74",
+    "realName": "无效座位",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-10-75",
+    "realName": "宋旭东",
+    "loginId": "9000165",
+    "department": "技术部",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-11-77",
+    "realName": "李洁",
+    "loginId": "9000077",
+    "department": "qa",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-11-78",
+    "realName": "俞峰",
+    "loginId": "3038",
+    "department": "UED",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-11-80",
+    "realName": "朱兴国",
+    "loginId": "3920",
+    "department": "技术部",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-12-82",
+    "realName": "刘怡君",
+    "loginId": "2695",
+    "department": "UED",
+    "phoneType": "CISCO",
+    "phoneNumber": "7757"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-12-83",
+    "realName": "魏中衡",
+    "loginId": "",
+    "department": "UED",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-12-84",
+    "realName": "李雪娇",
+    "loginId": "2040",
+    "department": "UED",
+    "phoneType": "CISCO",
+    "phoneNumber": "7725"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-12-85",
+    "realName": "张雪娇",
+    "loginId": "",
+    "department": "产品部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-12-86",
+    "realName": "彭永霞",
+    "loginId": "1080",
+    "department": "UED",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-12-87",
+    "realName": "丁立宇",
+    "loginId": "",
+    "department": "产品部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-12-88",
+    "realName": "王渊",
+    "loginId": "1588",
+    "department": "UED",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-12-89",
+    "realName": "周耀炎",
+    "loginId": "",
+    "department": "产品部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-13-90",
+    "realName": "俞建林",
+    "loginId": "135",
+    "department": "产品部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-13-91",
+    "realName": "黄金",
+    "loginId": "1660",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-13-92",
+    "realName": "吴小贝",
+    "loginId": "",
+    "department": "产品部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-13-93",
+    "realName": "曹健辉",
+    "loginId": "3790",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1902"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-13-94",
+    "realName": "王珑锡  ",
+    "loginId": "",
+    "department": "产品部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-13-95",
+    "realName": "陈源",
+    "loginId": "4357",
+    "department": "技术部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-13-97",
+    "realName": "陈婷",
+    "loginId": "",
+    "department": "产品部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-14-98",
+    "realName": "吕夕骏",
+    "loginId": "9001368",
+    "department": "技术部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-14-99",
+    "realName": "李刚",
+    "loginId": "705",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1683"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-14-101",
+    "realName": "陈旺",
+    "loginId": "1250",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1799"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-14-103",
+    "realName": "张神",
+    "loginId": "293",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1670"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-14-104",
+    "realName": "秦东方",
+    "loginId": "3327",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1886"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-15-105",
+    "realName": "张驰骋",
+    "loginId": "8000003",
+    "department": "技术部",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-15-106",
+    "realName": "王志才",
+    "loginId": "8000002",
+    "department": "技术部",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-15-107",
+    "realName": "张颖",
+    "loginId": "502",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1632"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-15-108",
+    "realName": "喻杨",
+    "loginId": "3001",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1862"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-16-109",
+    "realName": "高巍",
+    "loginId": "4420",
+    "department": "技术部",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-16-110",
+    "realName": "蔡磊",
+    "loginId": "2089",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7727"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-16-111",
+    "realName": "赵钰",
+    "loginId": "2087",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7726"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-16-112",
+    "realName": "罗义莲",
+    "loginId": "1958",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7705"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-17-113",
+    "realName": "郗晓娇",
+    "loginId": "9000702",
+    "department": "技术部",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-17-114",
+    "realName": "朱翀",
+    "loginId": "9000049",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1787"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-17-115",
+    "realName": "吴晓莹",
+    "loginId": "9000190",
+    "department": "技术部",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-17-116",
+    "realName": "吴金明",
+    "loginId": "4450",
+    "department": "技术部",
+    "phoneType": "3G",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-17-117",
+    "realName": "段金聚",
+    "loginId": "9000528",
+    "department": "技术部",
+    "phoneType": "3G",
+    "phoneNumber": "无"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-18-122",
+    "realName": "黄毅",
+    "loginId": "476",
+    "department": "产品部",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-19-127",
+    "realName": "邱晨洲",
+    "loginId": "9000251",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "3632"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-19-128",
+    "realName": "陶文丽",
+    "loginId": "9000117",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "3632"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-20-129",
+    "realName": "仲良骏",
+    "loginId": "9000684",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1793"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-20-130",
+    "realName": "杨成",
+    "loginId": "1441",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1793"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-20-132",
+    "realName": "虞骢",
+    "loginId": "9000218",
+    "department": "技术部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-20-134",
+    "realName": "冯剑辉",
+    "loginId": "9001485",
+    "department": "产品部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-20-135",
+    "realName": "王媛",
+    "loginId": "9000043",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7709"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-20-136",
+    "realName": "周琳",
+    "loginId": "114",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7633"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-20-137",
+    "realName": "范伟",
+    "loginId": "9001273",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1956"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-20-138",
+    "realName": "贾欣",
+    "loginId": "9001048",
+    "department": "技术部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-21-139",
+    "realName": "倪文杰",
+    "loginId": "681",
+    "department": "UED",
+    "phoneType": "CISCO",
+    "phoneNumber": "7672"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-21-140",
+    "realName": "韩娅泱",
+    "loginId": "4025",
+    "department": "UED",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-21-141",
+    "realName": "毛启文",
+    "loginId": "924",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1719"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-21-143",
+    "realName": "谭军",
+    "loginId": "9001141",
+    "department": "UED",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-22-148",
+    "realName": "周遥",
+    "loginId": "1296",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1805"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-22-149",
+    "realName": "廖世超",
+    "loginId": "9001408",
+    "department": "技术部",
+    "phoneType": "无",
+    "phoneNumber": "1823"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-22-150",
+    "realName": "张倩",
+    "loginId": "9001184",
+    "department": "技术部",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-22-151",
+    "realName": "王辰琛",
+    "loginId": "9001402",
+    "department": "技术部",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-22-152",
+    "realName": "薛赵明",
+    "loginId": "2980",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1906"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-22-153",
+    "realName": "张木喜",
+    "loginId": "3551",
+    "department": "技术部",
+    "phoneType": "3G",
+    "phoneNumber": "18821175144"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-23-155",
+    "realName": "贾大杨",
+    "loginId": "9001541",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-23-156",
+    "realName": "苏柏坚",
+    "loginId": "4136",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1915"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-23-159",
+    "realName": "杨大伟",
+    "loginId": "9000542",
+    "department": "技术部",
+    "phoneType": "3G",
+    "phoneNumber": "60440543"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-23-160",
+    "realName": "周昱",
+    "loginId": "927",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1720"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-24-161",
+    "realName": "刘丽雅",
+    "loginId": "9000325",
+    "department": "产品部",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-24-162",
+    "realName": "郭幸",
+    "loginId": "9001312",
+    "department": "产品部",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-24-163",
+    "realName": "徐小琳",
+    "loginId": "574",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "3633"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-24-164",
+    "realName": "王雪洁",
+    "loginId": "917",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "3637"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-24-165",
+    "realName": "毕扬静",
+    "loginId": "9000526",
+    "department": "产品部",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-24-166",
+    "realName": "周东昱",
+    "loginId": "268",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "3639"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-24-167",
+    "realName": "张燕婷",
+    "loginId": "1337",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7768"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-24-168",
+    "realName": "吉佳瑛",
+    "loginId": "9000008",
+    "department": "产品部",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-25-169",
+    "realName": "丁丽丽",
+    "loginId": "1961",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7693"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-25-173",
+    "realName": "童玲",
+    "loginId": "1014",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7621"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-25-174",
+    "realName": "沈晶晶",
+    "loginId": "923",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7621"
+}, {
+    "floor": "A6",
+    "seatNumber": "A6-08-05a",
+    "realName": "杜镇",
+    "loginId": "9001512",
+    "department": "技术部",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-01-02",
+    "realName": "瞿聪",
+    "loginId": "171",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "1616"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-02-04",
+    "realName": "曾玮",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-02-06",
+    "realName": "寻宇",
+    "loginId": "9000065",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "1780"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-02-08",
+    "realName": "章小明",
+    "loginId": "2495",
+    "department": "技术部QA",
+    "phoneType": "CISCO",
+    "phoneNumber": "7737"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-02-09",
+    "realName": "赵智慧",
+    "loginId": "",
+    "department": "技术部QA",
+    "phoneType": "",
+    "phoneNumber": "查"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-02-10",
+    "realName": "任刘冯",
+    "loginId": "9000176",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "1982"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-03-12",
+    "realName": "鄢荆州",
+    "loginId": "2056",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "7751"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-03-13",
+    "realName": "袁冰秋",
+    "loginId": "621",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "1673"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-03-14",
+    "realName": "邹华姣",
+    "loginId": "9001445",
+    "department": "业务系统",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-03-15",
+    "realName": "李志远",
+    "loginId": "9",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "1611"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-03-17",
+    "realName": "吴晓勇",
+    "loginId": "267",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "1656"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-03-18",
+    "realName": "肖云华",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-03-19",
+    "realName": "喻钧",
+    "loginId": "800",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1703"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-04-06a",
+    "realName": "刘思勤",
+    "loginId": "9001353",
+    "department": "业务系统",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-04-20",
+    "realName": "潘文杰",
+    "loginId": "1878",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1878"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-04-21",
+    "realName": "程敏轩",
+    "loginId": "780",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "1672"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-04-22",
+    "realName": "李超",
+    "loginId": "3705",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "1887"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-04-23",
+    "realName": "宋顺",
+    "loginId": "4558",
+    "department": "业务系统",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-04-24",
+    "realName": "张能凤",
+    "loginId": "3564",
+    "department": "技术部",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-04-26",
+    "realName": "洪璐",
+    "loginId": "9000701",
+    "department": "业务系统",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-05-28",
+    "realName": "何正",
+    "loginId": "2427",
+    "department": "业务系统",
+    "phoneType": "cisco",
+    "phoneNumber": "7750"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-05-29",
+    "realName": "龚昱阳",
+    "loginId": "",
+    "department": "业务系统",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-05-30",
+    "realName": "龚瑶",
+    "loginId": "9000403",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "5507"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-05-31",
+    "realName": "张华贵",
+    "loginId": "9001257",
+    "department": "业务系统",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-05-34",
+    "realName": "张新宇",
+    "loginId": "9001170",
+    "department": "业务系统",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-06-38",
+    "realName": "蒋丰杰",
+    "loginId": "9000066",
+    "department": "技术QA",
+    "phoneType": "CISCO",
+    "phoneNumber": "1765"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-06-41",
+    "realName": "杨杰",
+    "loginId": "3622",
+    "department": "技术部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1907"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-06-42",
+    "realName": "李江湖",
+    "loginId": "3471",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "1901"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-06-43",
+    "realName": "郭玲",
+    "loginId": "4913",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "1985"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-07-44",
+    "realName": "王迅",
+    "loginId": "1318",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "1779"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-07-45",
+    "realName": "方志远",
+    "loginId": "2403",
+    "department": "业务运营与系统部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7753"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-08-47",
+    "realName": "胡铭嘉",
+    "loginId": "3223",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "8710"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-08-48",
+    "realName": "刑赟",
+    "loginId": "1362",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "1938"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-08-49",
+    "realName": "厉颖",
+    "loginId": "1395",
+    "department": "产品部",
+    "phoneType": "3G",
+    "phoneNumber": "60440535"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-08-50",
+    "realName": "庄璟",
+    "loginId": "4869",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7803"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-08-52",
+    "realName": "马吟霄",
+    "loginId": "9000520",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7763"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-08-53",
+    "realName": "吕萍",
+    "loginId": "",
+    "department": "产品部",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-14-75",
+    "realName": "王陆岩",
+    "loginId": "1745",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "1752"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-14-77",
+    "realName": "向乾",
+    "loginId": "4714",
+    "department": "技术QA",
+    "phoneType": "CISCO",
+    "phoneNumber": "1972"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-14-79",
+    "realName": "唐建军",
+    "loginId": "3683",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "5510"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-14-80",
+    "realName": "马杰星",
+    "loginId": "2410",
+    "department": "业务系统",
+    "phoneType": "CISCO",
+    "phoneNumber": "7752"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-14-81",
+    "realName": "奚杉杉",
+    "loginId": "9001036",
+    "department": "业务系统",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-15-83",
+    "realName": "周中坚",
+    "loginId": "",
+    "department": "会员卡",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-15-84",
+    "realName": "王鑫威",
+    "loginId": "9000458",
+    "department": "会员卡",
+    "phoneType": "CISCO",
+    "phoneNumber": "1986"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-15-85",
+    "realName": "薛阳",
+    "loginId": "9001388",
+    "department": "会员卡",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-15-86",
+    "realName": "丁媛",
+    "loginId": "4477",
+    "department": "会员卡",
+    "phoneType": "CISCO",
+    "phoneNumber": "1966"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-15-87",
+    "realName": "董蓉",
+    "loginId": "9001044",
+    "department": "会员卡",
+    "phoneType": "CISCO",
+    "phoneNumber": "1966"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-15-88",
+    "realName": "李信凯",
+    "loginId": "9001320",
+    "department": "会员卡",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-15-90",
+    "realName": "陈景广",
+    "loginId": "4635",
+    "department": "会员卡",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-15-91",
+    "realName": "吕美嘉",
+    "loginId": "9001330",
+    "department": "会员卡",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-15-92",
+    "realName": "黄芳",
+    "loginId": "2750",
+    "department": "会员卡",
+    "phoneType": "CISCO",
+    "phoneNumber": "1918"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-16-93",
+    "realName": "周晓文",
+    "loginId": "4146",
+    "department": "会员卡",
+    "phoneType": "CISCO",
+    "phoneNumber": "1917"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-16-94",
+    "realName": "朱士坤",
+    "loginId": "9001436",
+    "department": "会员卡",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-16-95",
+    "realName": "王记伟",
+    "loginId": "3090",
+    "department": "会员卡",
+    "phoneType": "CISCO",
+    "phoneNumber": "1889"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-16-96",
+    "realName": "徐毅",
+    "loginId": "",
+    "department": "敏捷教练",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-16-97",
+    "realName": "朱炜",
+    "loginId": "4579",
+    "department": "会员卡",
+    "phoneType": "CISCO",
+    "phoneNumber": "1978"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-16-98",
+    "realName": "文慧",
+    "loginId": "9001432",
+    "department": "会员卡",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-16-99",
+    "realName": "李岩",
+    "loginId": "4826",
+    "department": "会员卡",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-16-100",
+    "realName": "邓金发",
+    "loginId": "4410",
+    "department": "会员卡",
+    "phoneType": "CISCO",
+    "phoneNumber": "1977"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-17-102",
+    "realName": "陈昱彤",
+    "loginId": "9001529",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-17-103",
+    "realName": "潘泽成",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-17-104",
+    "realName": "肖逸",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-17-107",
+    "realName": "张乐",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-17-108",
+    "realName": "陈静",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-17-110",
+    "realName": "胡宸宇",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-18-111",
+    "realName": "易丹丽",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-18-112",
+    "realName": "冉荣伟",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-18-114",
+    "realName": "高艳",
+    "loginId": "9000479",
+    "department": "UED",
+    "phoneType": "CISCO",
+    "phoneNumber": "7662"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-18-115",
+    "realName": "苑爽",
+    "loginId": "4571",
+    "department": "UED",
+    "phoneType": "CISCO",
+    "phoneNumber": "7795"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-18-117",
+    "realName": "周辉",
+    "loginId": "763",
+    "department": "移动商务线",
+    "phoneType": "CISCO",
+    "phoneNumber": "1699"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-19-118",
+    "realName": "江宗哲",
+    "loginId": "3719",
+    "department": "UED",
+    "phoneType": "CISCO",
+    "phoneNumber": "7776"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-19-119",
+    "realName": "徐洁玉",
+    "loginId": "4691",
+    "department": "UED",
+    "phoneType": "CISCO",
+    "phoneNumber": "7796"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-19-120",
+    "realName": "杨钊",
+    "loginId": "2978",
+    "department": "移动商务线",
+    "phoneType": "CISCO",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-19-121",
+    "realName": "季浩勉",
+    "loginId": "1147",
+    "department": "移动商务线",
+    "phoneType": "CISCO",
+    "phoneNumber": "1730"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-20-126",
+    "realName": "江凯",
+    "loginId": "9001480",
+    "department": "产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-20-127",
+    "realName": "朱晖",
+    "loginId": "9000377",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7762"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-20-130",
+    "realName": "龙炜",
+    "loginId": "4288",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "1950"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-20-131",
+    "realName": "伍盛菲",
+    "loginId": "9001274",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "1939"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-20-132",
+    "realName": "王旭刚",
+    "loginId": "3070",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7758"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-21-134",
+    "realName": "李晓辉",
+    "loginId": "1113",
+    "department": "技术QA",
+    "phoneType": "CISCO",
+    "phoneNumber": "1729"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-21-135",
+    "realName": "周凯",
+    "loginId": "9000166",
+    "department": "技术",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-21-136",
+    "realName": "康东梅",
+    "loginId": "3128",
+    "department": "技术QA",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-22-140",
+    "realName": "侯裕涛",
+    "loginId": "3148",
+    "department": "技术",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-22-141",
+    "realName": "寸志",
+    "loginId": "9000119",
+    "department": "技术",
+    "phoneType": "CISCO",
+    "phoneNumber": "1802"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-22-142",
+    "realName": "蒋一新",
+    "loginId": "1186",
+    "department": "技术",
+    "phoneType": "cisco",
+    "phoneNumber": "1696"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-22-143",
+    "realName": "金健",
+    "loginId": "3674",
+    "department": "技术",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-23-151",
+    "realName": "蒋亦奇",
+    "loginId": "9001443",
+    "department": "预约预订",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-23-152",
+    "realName": "李磊",
+    "loginId": "9000598",
+    "department": "预约预订",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-23-153",
+    "realName": "杨晓梅",
+    "loginId": "9001434",
+    "department": "预约预订",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-23-155",
+    "realName": "邹潇",
+    "loginId": "4343",
+    "department": "预约预订",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-02-02a",
+    "realName": "毛俊杰",
+    "loginId": "9001471",
+    "department": "业务系统",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-03-03a",
+    "realName": "沈阳",
+    "loginId": "9001473",
+    "department": "业务系统",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-03-04a",
+    "realName": "钱石磊",
+    "loginId": "9001475",
+    "department": "业务系统",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-04-05a",
+    "realName": "蔡忠亨",
+    "loginId": "",
+    "department": "业务系统",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-05-07a",
+    "realName": "潘慧敏",
+    "loginId": "4022",
+    "department": "业务系统",
+    "phoneType": "cisco",
+    "phoneNumber": "1913"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-05-08a",
+    "realName": "徐剑峰",
+    "loginId": "4353",
+    "department": "业务系统",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-06-09a",
+    "realName": "周沈同",
+    "loginId": "9001173",
+    "department": "技术QA",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-11-11a",
+    "realName": "N/A",
+    "loginId": "N/A",
+    "department": "N/A",
+    "phoneType": "N/A",
+    "phoneNumber": "N/A"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-11-12a",
+    "realName": "N/A",
+    "loginId": "N/A",
+    "department": "N/A",
+    "phoneType": "N/A",
+    "phoneNumber": "N/A"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-11-13a",
+    "realName": "N/A",
+    "loginId": "N/A",
+    "department": "N/A",
+    "phoneType": "N/A",
+    "phoneNumber": "N/A"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-11-14a",
+    "realName": "N/A",
+    "loginId": "N/A",
+    "department": "N/A",
+    "phoneType": "N/A",
+    "phoneNumber": "N/A"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-11-15a",
+    "realName": "杨宇辰",
+    "loginId": "9001476",
+    "department": "业务系统",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-11-16a",
+    "realName": "N/A",
+    "loginId": "N/A",
+    "department": "N/A",
+    "phoneType": "N/A",
+    "phoneNumber": "N/A"
+}, {
+    "floor": "C5",
+    "seatNumber": "C5-06-10a",
+    "realName": "刘宝顺",
+    "loginId": "9001498",
+    "department": "业务系统",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-01-01",
+    "realName": "王凯",
+    "loginId": "2096",
+    "department": "团购业务优化",
+    "phoneType": "CISCO",
+    "phoneNumber": "1829"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-01-03",
+    "realName": "梁江章",
+    "loginId": "3602",
+    "department": "团购业务优化",
+    "phoneType": "CISCO",
+    "phoneNumber": "1960"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-01-04",
+    "realName": "陈孝峰",
+    "loginId": "4419",
+    "department": "团购业务优化",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-02-06",
+    "realName": "任晓冬",
+    "loginId": "9000044",
+    "department": "团购业务优化",
+    "phoneType": "CISCO",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-02-07",
+    "realName": "侯培旭",
+    "loginId": "9000314",
+    "department": "团购业务优化",
+    "phoneType": "老CISCO",
+    "phoneNumber": "1851"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-02-08",
+    "realName": "黄俊钧",
+    "loginId": "9000556",
+    "department": "团购业务优化",
+    "phoneType": "老CISCO",
+    "phoneNumber": "1987"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-02-09",
+    "realName": "潘华磊",
+    "loginId": "2320",
+    "department": "商务产品开发",
+    "phoneType": "CISCO",
+    "phoneNumber": "1839"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-02-10",
+    "realName": "朱光华",
+    "loginId": "819",
+    "department": "团购开发",
+    "phoneType": "CISCO",
+    "phoneNumber": "1707"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-02-11",
+    "realName": "李文伟",
+    "loginId": "770",
+    "department": "团购开发",
+    "phoneType": "CISCO",
+    "phoneNumber": "1700"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-02-12",
+    "realName": "顾钧",
+    "loginId": "4378",
+    "department": "团购开发",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-03-13",
+    "realName": "许闻捷",
+    "loginId": "2081",
+    "department": "商务产品开发",
+    "phoneType": "CISCO",
+    "phoneNumber": "1828"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-03-14",
+    "realName": "N/A",
+    "loginId": "N/A",
+    "department": "",
+    "phoneType": "N/A",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-03-15",
+    "realName": "陈金",
+    "loginId": "4344",
+    "department": "团购开发",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-03-16",
+    "realName": "靳栀艳",
+    "loginId": "4530",
+    "department": "团购",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-03-17",
+    "realName": "陈沁",
+    "loginId": "3040",
+    "department": "产品",
+    "phoneType": "3G",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-03-19",
+    "realName": "姜姗姗",
+    "loginId": "769",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7680"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-03-20",
+    "realName": "付瑶",
+    "loginId": "9000051",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7670"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-04-21",
+    "realName": "郭宇",
+    "loginId": "4531",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "1959"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-04-23",
+    "realName": "曹世雄",
+    "loginId": "909",
+    "department": "产品",
+    "phoneType": "cisco",
+    "phoneNumber": "7690"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-04-25",
+    "realName": "陈子琪",
+    "loginId": "4689",
+    "department": "产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-04-27",
+    "realName": "李俊杰",
+    "loginId": "4074",
+    "department": "产品部",
+    "phoneType": "CISCO",
+    "phoneNumber": "7793"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-04-28",
+    "realName": "傅焓铮",
+    "loginId": "754",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7678"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-05-29",
+    "realName": "赵雅婧",
+    "loginId": "1984",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7663"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-05-30",
+    "realName": "罗鄢铭志",
+    "loginId": "9000390",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7788"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-05-31",
+    "realName": "戴维莎",
+    "loginId": "2930",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7787"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-05-32",
+    "realName": "陈珏",
+    "loginId": "3987",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7783"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-05-33",
+    "realName": "倪小芸",
+    "loginId": "9001325",
+    "department": "产品运营",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-05-34",
+    "realName": "叶松",
+    "loginId": "4729",
+    "department": "产品运营",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-05-35",
+    "realName": "郑璐",
+    "loginId": "535",
+    "department": "产品运营",
+    "phoneType": "CISCO",
+    "phoneNumber": "7792"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-06-38",
+    "realName": "王超",
+    "loginId": "242",
+    "department": "前端",
+    "phoneType": "CISCO",
+    "phoneNumber": "1659"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-06-39",
+    "realName": "马全华",
+    "loginId": "3229",
+    "department": "前端",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-06-41",
+    "realName": "李永亮",
+    "loginId": "2227",
+    "department": "前端",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-06-42",
+    "realName": "杨远翔",
+    "loginId": "9001067",
+    "department": "前端",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-07-43",
+    "realName": "王小勇",
+    "loginId": "4194",
+    "department": "广告",
+    "phoneType": "CISCO",
+    "phoneNumber": "1929"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-07-44",
+    "realName": "何培昊",
+    "loginId": "3889",
+    "department": "广告",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-07-45",
+    "realName": "杨寅",
+    "loginId": "9000555",
+    "department": "广告",
+    "phoneType": "CISCO",
+    "phoneNumber": "1979"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-07-46",
+    "realName": "沈梦月",
+    "loginId": "9001027",
+    "department": "广告",
+    "phoneType": "CISCO",
+    "phoneNumber": "1989"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-07-47",
+    "realName": "周松",
+    "loginId": "4385",
+    "department": "广告",
+    "phoneType": "CISCO",
+    "phoneNumber": "1969"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-07-48",
+    "realName": "王明",
+    "loginId": "3037",
+    "department": "广告",
+    "phoneType": "CISCO",
+    "phoneNumber": "1877"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-07-49",
+    "realName": "柳君",
+    "loginId": "4417",
+    "department": "广告",
+    "phoneType": "CISCO",
+    "phoneNumber": "1970"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-07-50",
+    "realName": "郑楠",
+    "loginId": "1396",
+    "department": "广告",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-08-51",
+    "realName": "金艳婷",
+    "loginId": "931",
+    "department": "BI",
+    "phoneType": "CISCO",
+    "phoneNumber": "7697"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-08-52",
+    "realName": "雷蕾",
+    "loginId": "2154",
+    "department": "BI",
+    "phoneType": "CISCO",
+    "phoneNumber": "1832"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-08-53",
+    "realName": "郭闻铭",
+    "loginId": "4732",
+    "department": "BI",
+    "phoneType": "CISCO",
+    "phoneNumber": "7798"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-08-54",
+    "realName": "戴立平",
+    "loginId": "1439",
+    "department": "BI",
+    "phoneType": "CISCO",
+    "phoneNumber": "1735"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-08-55",
+    "realName": "赵柯",
+    "loginId": "3508",
+    "department": "BI",
+    "phoneType": "CISCO",
+    "phoneNumber": "1868"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-08-56",
+    "realName": "朱江",
+    "loginId": "3632",
+    "department": "BI",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-08-57",
+    "realName": "汪嘉人",
+    "loginId": "4825",
+    "department": "BI",
+    "phoneType": "CISCO",
+    "phoneNumber": "1980"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-08-58",
+    "realName": "商未雄",
+    "loginId": "",
+    "department": "BI",
+    "phoneType": "",
+    "phoneNumber": "1679"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-09-59",
+    "realName": "刘玮",
+    "loginId": "9000328",
+    "department": "商业线-支付",
+    "phoneType": "3G",
+    "phoneNumber": "15721057073"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-09-60",
+    "realName": "梁剑锋",
+    "loginId": "9000339",
+    "department": "商业线-支付",
+    "phoneType": "CISCO",
+    "phoneNumber": "1871"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-09-61",
+    "realName": "林俊杰",
+    "loginId": "9000547",
+    "department": "商业线-支付",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-09-62",
+    "realName": "李华慰",
+    "loginId": "1942",
+    "department": "商业线-支付",
+    "phoneType": "CISCO",
+    "phoneNumber": "1778"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-09-63",
+    "realName": "陈一方",
+    "loginId": "1640",
+    "department": "商业线-支付",
+    "phoneType": "CISCO",
+    "phoneNumber": "1773"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-09-65",
+    "realName": "杨星",
+    "loginId": "9000060",
+    "department": "商业线",
+    "phoneType": "CISCO",
+    "phoneNumber": "1776"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-09-66",
+    "realName": "张磊",
+    "loginId": "3689",
+    "department": "团购",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-09-67",
+    "realName": "汪洋",
+    "loginId": "4373",
+    "department": "团购",
+    "phoneType": "CISCO",
+    "phoneNumber": "1981"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-09-68",
+    "realName": "张虎威",
+    "loginId": "9001363",
+    "department": "商业线-支付",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-10-71",
+    "realName": "李晨清",
+    "loginId": "3418",
+    "department": "商业线",
+    "phoneType": "CISCO",
+    "phoneNumber": "1881"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-10-72",
+    "realName": "余熠",
+    "loginId": "23",
+    "department": "团购",
+    "phoneType": "CISCO",
+    "phoneNumber": "1627"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-10-73",
+    "realName": "冯志超",
+    "loginId": "4673",
+    "department": "团购开发",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-10-74",
+    "realName": "孙雨晶",
+    "loginId": "9000571",
+    "department": "团购",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-10-75",
+    "realName": "李思灏 ",
+    "loginId": "994",
+    "department": "团购",
+    "phoneType": "cisco",
+    "phoneNumber": "1728"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-10-76",
+    "realName": "姜智慧",
+    "loginId": "3139",
+    "department": "商业线",
+    "phoneType": "",
+    "phoneNumber": "1880"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-11-78",
+    "realName": "王玉",
+    "loginId": "9001511",
+    "department": "商业线",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-11-79",
+    "realName": "周麟",
+    "loginId": "9000027",
+    "department": "商业线",
+    "phoneType": "CISCO",
+    "phoneNumber": "1785"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-11-80",
+    "realName": "蒋星",
+    "loginId": "4418",
+    "department": "商业线",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-11-82",
+    "realName": "沈梦姣",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-11-83",
+    "realName": "何治",
+    "loginId": "4407",
+    "department": "团购",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-11-84",
+    "realName": "陈磊",
+    "loginId": "9001022",
+    "department": "团购",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-11-85",
+    "realName": "邓梦浪",
+    "loginId": "3648",
+    "department": "团购",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-11-86",
+    "realName": "刘婷",
+    "loginId": "9000040",
+    "department": "QA",
+    "phoneType": "CISCO",
+    "phoneNumber": "1762"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-12-87",
+    "realName": "丁一凡",
+    "loginId": "9001437",
+    "department": "团购",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-12-88",
+    "realName": "张文东",
+    "loginId": "3650",
+    "department": "团购",
+    "phoneType": "CISCO",
+    "phoneNumber": "1882"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-12-89",
+    "realName": "杨晓冉",
+    "loginId": "9000132",
+    "department": "团购",
+    "phoneType": "CISCO",
+    "phoneNumber": "1822"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-12-90",
+    "realName": "赵君一",
+    "loginId": "337",
+    "department": "QA",
+    "phoneType": "CISCO",
+    "phoneNumber": "1723"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-12-91",
+    "realName": "昌琳",
+    "loginId": "2585",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7779"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-12-92",
+    "realName": "曾俊豪",
+    "loginId": "3985",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7782"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-12-93",
+    "realName": "刘书言",
+    "loginId": "3718",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7778"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-12-94",
+    "realName": "张旭阳",
+    "loginId": "9000878",
+    "department": "QA",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-13-95",
+    "realName": "徐承超",
+    "loginId": "2313",
+    "department": "产品",
+    "phoneType": "3G",
+    "phoneNumber": "61848584"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-13-96",
+    "realName": "周晓璞",
+    "loginId": "4926",
+    "department": "产品",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-13-97",
+    "realName": "赵彭",
+    "loginId": "9000025",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7728"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-13-98",
+    "realName": "N/A",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-13-99",
+    "realName": "卢夏衍",
+    "loginId": "9001389",
+    "department": "QA",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-13-100",
+    "realName": "N/A",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-13-101",
+    "realName": "N/A",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-13-102",
+    "realName": "N/A",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-13-103",
+    "realName": "N/A",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-13-104",
+    "realName": "N/A",
+    "loginId": "",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-14-105",
+    "realName": "朱凝",
+    "loginId": "601",
+    "department": "市场",
+    "phoneType": "CISCO",
+    "phoneNumber": "8308"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-14-106",
+    "realName": "蔡彦佳",
+    "loginId": "1746",
+    "department": "市场",
+    "phoneType": "CISCO",
+    "phoneNumber": "8376"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-14-107",
+    "realName": "樊楸榕",
+    "loginId": "1025",
+    "department": "市场",
+    "phoneType": "CISCO",
+    "phoneNumber": "7685"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-14-108",
+    "realName": "徐晶",
+    "loginId": "3176",
+    "department": "市场",
+    "phoneType": "CISCO",
+    "phoneNumber": "8619"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-14-109",
+    "realName": "陆佳",
+    "loginId": "193",
+    "department": "市场",
+    "phoneType": "CISCO",
+    "phoneNumber": "8298"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-14-111",
+    "realName": "陈艳琦",
+    "loginId": "289",
+    "department": "市场",
+    "phoneType": "CISCO",
+    "phoneNumber": "8327"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-14-112",
+    "realName": "孙忆馨",
+    "loginId": "1089",
+    "department": "市场",
+    "phoneType": "CISCO",
+    "phoneNumber": "8618"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-14-113",
+    "realName": "胡龙君",
+    "loginId": "4291",
+    "department": "市场",
+    "phoneType": "CISCO",
+    "phoneNumber": "8712"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-14-114",
+    "realName": "曾璐",
+    "loginId": "9000578",
+    "department": "市场",
+    "phoneType": "3G",
+    "phoneNumber": "60440854"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-15-116",
+    "realName": "熊嘉骏",
+    "loginId": "9000115",
+    "department": "QA",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-15-117",
+    "realName": "范亚萍",
+    "loginId": "9001272",
+    "department": "产品",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-15-119",
+    "realName": "陈洁莹",
+    "loginId": "9000268",
+    "department": "产品",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-15-121",
+    "realName": "邓钦允",
+    "loginId": "4557",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "1920"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-15-122",
+    "realName": "张嘉伟",
+    "loginId": "9000263",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "8363"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-15-123",
+    "realName": "祁凤蜓",
+    "loginId": "9001076",
+    "department": "产品",
+    "phoneType": "无",
+    "phoneNumber": ""
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-15-124",
+    "realName": "蔡妤鸣",
+    "loginId": "2611",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "5290"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-16-126",
+    "realName": "童晨",
+    "loginId": "3983",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7785"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-16-127",
+    "realName": "樊欣",
+    "loginId": "9000169",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "8379"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-16-128",
+    "realName": "黄昊",
+    "loginId": "9001361",
+    "department": "产品",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-16-130",
+    "realName": "王韵",
+    "loginId": "464",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "8306"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-16-131",
+    "realName": "薛昭君",
+    "loginId": "2049",
+    "department": "产品",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-16-132",
+    "realName": "晁力凡",
+    "loginId": "889",
+    "department": "产品",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-16-133",
+    "realName": "李琳娜",
+    "loginId": "4346",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7797"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-16-134",
+    "realName": "王爱忠",
+    "loginId": "712",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7676"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-17-135",
+    "realName": "龚如",
+    "loginId": "9000402",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "1912"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-17-136",
+    "realName": "易强",
+    "loginId": "1073",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7624"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-17-137",
+    "realName": "程遥",
+    "loginId": "3529",
+    "department": "产品",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-17-138",
+    "realName": "郑滢",
+    "loginId": "9000445",
+    "department": "产品",
+    "phoneType": "3G",
+    "phoneNumber": "61848523"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-17-139",
+    "realName": "任飞",
+    "loginId": "2284",
+    "department": "产品",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-17-140",
+    "realName": "孙全",
+    "loginId": "2411",
+    "department": "产品",
+    "phoneType": "3G",
+    "phoneNumber": "60440547"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-17-141",
+    "realName": "余宇",
+    "loginId": "2976",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7780"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-17-142",
+    "realName": "汤文文",
+    "loginId": "9000116",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7717"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-17-143",
+    "realName": "孟月",
+    "loginId": "9000017",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7718"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-17-144",
+    "realName": "钱艳洁",
+    "loginId": "1654",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7627"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-18-146",
+    "realName": "徐彦频",
+    "loginId": "600",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7665"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-18-147",
+    "realName": "崔鹏娟",
+    "loginId": "9000042",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "8377"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-18-148",
+    "realName": "张启华",
+    "loginId": "1690",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7622"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-18-149",
+    "realName": "卢鑫",
+    "loginId": "684",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7561"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-18-150",
+    "realName": "闫凌",
+    "loginId": "913",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7691"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-18-151",
+    "realName": "归书怡",
+    "loginId": "1983",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "7719"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-18-152",
+    "realName": "陈瀚骎",
+    "loginId": "3887",
+    "department": "产品",
+    "phoneType": "CISCO",
+    "phoneNumber": "1931"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-02-01a",
+    "realName": "查九",
+    "loginId": "9001358",
+    "department": "产品",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-02-02a",
+    "realName": "江伟",
+    "loginId": "9001323",
+    "department": "团购开发",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "C6",
+    "seatNumber": "C6-03-04a",
+    "realName": "王利龙",
+    "loginId": "9001023",
+    "department": "团购QA",
+    "phoneType": "无",
+    "phoneNumber": "无"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-05-22",
+    "realName": "苗发平",
+    "loginId": "558",
+    "department": "技术保障－DBA",
+    "phoneType": "CISCO",
+    "phoneNumber": "1655"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-05-23",
+    "realName": "卢钧轶",
+    "loginId": "721",
+    "department": "技术保障－DBA",
+    "phoneType": "CISCO",
+    "phoneNumber": "1688"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-06-25",
+    "realName": "万霁春",
+    "loginId": "643",
+    "department": "技术保障－DBA",
+    "phoneType": "CISCO",
+    "phoneNumber": "1678"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-06-26",
+    "realName": "钟贇",
+    "loginId": "2908",
+    "department": "技术保障－DBA",
+    "phoneType": "CISCO",
+    "phoneNumber": "1860"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-06-27",
+    "realName": "王栋",
+    "loginId": "207",
+    "department": "技术保障－DBA",
+    "phoneType": "CISCO",
+    "phoneNumber": "1619"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-06-28",
+    "realName": "薄海",
+    "loginId": "720",
+    "department": "技术保障－运维",
+    "phoneType": "CISCO",
+    "phoneNumber": "1687"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-06-29",
+    "realName": "张晋",
+    "loginId": "1624",
+    "department": "技术保障－运维",
+    "phoneType": "CISCO",
+    "phoneNumber": "1875"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-06-30",
+    "realName": "付华",
+    "loginId": "130",
+    "department": "技术保障－运维",
+    "phoneType": "CISCO",
+    "phoneNumber": "1615"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-07-31",
+    "realName": "值班",
+    "loginId": "",
+    "department": "技术保障－运维",
+    "phoneType": "CISCO",
+    "phoneNumber": "1768"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-07-32",
+    "realName": "值班",
+    "loginId": "",
+    "department": "技术保障－运维",
+    "phoneType": "CISCO",
+    "phoneNumber": "1769"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-07-33",
+    "realName": "曾伟伟",
+    "loginId": "9001442",
+    "department": "技术保障－运维",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-08-34",
+    "realName": "宋通",
+    "loginId": "9000554",
+    "department": "平台架构",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-08-35",
+    "realName": "梁锦华",
+    "loginId": "1440",
+    "department": "平台架构",
+    "phoneType": "CISCO",
+    "phoneNumber": "1812"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-08-36",
+    "realName": "顾庆",
+    "loginId": "1518",
+    "department": "平台架构",
+    "phoneType": "CISCO",
+    "phoneNumber": "1755"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-08-38",
+    "realName": "吴克柱",
+    "loginId": "3216",
+    "department": "平台架构",
+    "phoneType": "",
+    "phoneNumber": "无"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-08-39",
+    "realName": "胡鹏",
+    "loginId": "9000335",
+    "department": "平台架构",
+    "phoneType": "",
+    "phoneNumber": "无"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-09-45",
+    "realName": "朱浩",
+    "loginId": "9000324",
+    "department": "平台架构",
+    "phoneType": "3G",
+    "phoneNumber": "18802190657"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-10-46",
+    "realName": "黄建辉",
+    "loginId": "4625",
+    "department": "平台架构",
+    "phoneType": "",
+    "phoneNumber": "1968"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-10-47",
+    "realName": "尤勇",
+    "loginId": "9000018",
+    "department": "平台架构",
+    "phoneType": "",
+    "phoneNumber": "1810"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-10-48",
+    "realName": "吴其敏",
+    "loginId": "2102",
+    "department": "平台架构",
+    "phoneType": "",
+    "phoneNumber": "1831"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-10-51",
+    "realName": "张弟",
+    "loginId": "9001397",
+    "department": "工具",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-11-52",
+    "realName": "吾蔼华",
+    "loginId": "1955",
+    "department": "工具",
+    "phoneType": "CISCO",
+    "phoneNumber": "1782"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-11-53",
+    "realName": "王潇俊",
+    "loginId": "297",
+    "department": "",
+    "phoneType": "CISCO",
+    "phoneNumber": "1655"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-11-54",
+    "realName": "蔡长康",
+    "loginId": "9001053",
+    "department": "工具",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-11-55",
+    "realName": "陈逸",
+    "loginId": "9000118",
+    "department": "工具",
+    "phoneType": "CISCO",
+    "phoneNumber": "1759"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-11-56",
+    "realName": "苏玲",
+    "loginId": "3673",
+    "department": "工具",
+    "phoneType": "CISCO",
+    "phoneNumber": "1883"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-11-57",
+    "realName": "田嘉林",
+    "loginId": "4149",
+    "department": "",
+    "phoneType": "",
+    "phoneNumber": ""
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-12-63",
+    "realName": "李松年",
+    "loginId": "4694",
+    "department": "QA",
+    "phoneType": "CISCO",
+    "phoneNumber": "1638"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-13-64",
+    "realName": "黄河",
+    "loginId": "4556",
+    "department": "技术保障－运维",
+    "phoneType": "CISCO",
+    "phoneNumber": "1961"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-13-65",
+    "realName": "贺军",
+    "loginId": "752",
+    "department": "技术保障－运维",
+    "phoneType": "CISCO",
+    "phoneNumber": "1695"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-13-66",
+    "realName": "吴昕",
+    "loginId": "124",
+    "department": "技术保障－运维",
+    "phoneType": "CISCO",
+    "phoneNumber": "1612"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-13-67",
+    "realName": "刘群英",
+    "loginId": "1726",
+    "department": "技术保障－运维",
+    "phoneType": "CISCO",
+    "phoneNumber": "1661"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-13-68",
+    "realName": "水大伟",
+    "loginId": "4110",
+    "department": "技术保障－运维",
+    "phoneType": "CISCO",
+    "phoneNumber": "1963"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-13-69",
+    "realName": "张冠宇",
+    "loginId": "4250",
+    "department": "技术保障－运维",
+    "phoneType": "CISCO",
+    "phoneNumber": "1935"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-14-70",
+    "realName": "黄永",
+    "loginId": "9001284",
+    "department": "技术保障－运维",
+    "phoneType": "",
+    "phoneNumber": "1830"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-14-71",
+    "realName": "李学明",
+    "loginId": "2100",
+    "department": "技术保障－运维",
+    "phoneType": "CISCO",
+    "phoneNumber": "1830"
+}, {
+    "floor": "B201",
+    "seatNumber": "B2-14-73",
+    "realName": "彭海平",
+    "loginId": "567",
+    "department": "技术保障",
+    "phoneType": "CISCO",
+    "phoneNumber": "1613"
+}]
