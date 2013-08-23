@@ -21,7 +21,7 @@ module.exports = function(grunt) {
 
         watch: {
             css: {
-                files: ['**/*.stylus'],
+                files: ['**/*.styl'],
                 tasks: ['stylus'],
                 options: {
                     spawn: false,
