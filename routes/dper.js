@@ -15,7 +15,6 @@
 
   query = function(key, val) {
     var result;
-    console.log(key, val);
     result = {
       code: 500,
       msg: null

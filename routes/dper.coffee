@@ -8,8 +8,6 @@ exports.getByEmployeeId = (req, res) ->
 	res.json 200, query('EmployeeId', req.params.employeeId)
 
 query = (key, val) ->
-	console.log(key, val)
-
 	result = 
 		code: 500
 		msg: null
@@ -18,6 +16,8 @@ query = (key, val) ->
 		item.loginId.indexOf(val) != -1
 		
 	result.code = 200 if result.msg.length > 0
-	result	
+	result
+
+	
 
 
