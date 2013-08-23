@@ -1,4 +1,3 @@
-
 meetingRecords = require('../db/meeting').data
 
 queryMeeting = (key, val) -> 
