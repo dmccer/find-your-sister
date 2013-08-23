@@ -4,7 +4,12 @@
   "description": "find your sister",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.3.5",
+    "ejs": "*",
+    "stylus": "*"
   },
   "repository": {
     "type": "git",
@@ -13,10 +18,17 @@
   "keywords": [
     "find",
     "your",
-    "sister"
+    "sister",
+    "find your sister"
   ],
   "author": "Kane, BX, Pieux, LiSir",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "14464661e9ba4bd4a128338d9beacf17647c57d4"
+  "gitHead": "14464661e9ba4bd4a128338d9beacf17647c57d4",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-stylus": "~0.8.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.2"
+  }
 }
