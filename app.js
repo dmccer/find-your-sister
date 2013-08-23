@@ -1,7 +1,3 @@
- /* Module dependencies.
- */
-
-
 var express = require('express')
 var routes = require('./routes')
 var location = require('./routes/location')
@@ -38,13 +34,14 @@ if ('development' == app.get('env')) {
 app.get('/', routes.index)
 app.get('/card/name/:name', card.getByName)
 app.get('/card/dept/:dept', card.getByDept)
-
 app.get('/seat/:name', seat.getByName)
 app.get('/location', location.info)
 app.get('/meeting/room/:email', meeting.getByEmail)
 app.get('/meeting/dper/:dper', meeting.getByDper)
 app.get('/meeting/dper/:dper/now', meeting.get_deper_current_room)
-app.get('/dper/:employeeId', dper.getByEmployeeId)
+app.get('/dper/id/:employeeId', dper.getByEmployeeId)
+app.get('/dper/name/:name', dper.getByName)
+app.get('/dper/:name/meetings', dper.get_dper_today_meetings)
 
 app.get('/search/name/:name', search.searchByName)
 
