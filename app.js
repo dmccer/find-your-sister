@@ -2,8 +2,10 @@
  * Module dependencies.
  */
 
+
 var express = require('express')
 var routes = require('./routes')
+var person = require('./routes/person')
 var user = require('./routes/user')
 var card = require('./routes/card')
 var seat = require('./routes/seat')
@@ -39,6 +41,7 @@ app.get('/card/name/:name', card.getByName)
 app.get('/card/dept/:dept', card.getByDept)
 app.get('/seat/:name', seat.getByName)
 app.get('/meeting/:email', meeting.getByEmail)
+app.get('/person', person.info);
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'))
