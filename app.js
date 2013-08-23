@@ -40,7 +40,8 @@ app.get('/users', user.list)
 app.get('/card/name/:name', card.getByName)
 app.get('/card/dept/:dept', card.getByDept)
 app.get('/seat/:name', seat.getByName)
-app.get('/meeting/:email', meeting.getByEmail)
+app.get('/meeting/room/:email', meeting.getByEmail)
+app.get('/meeting/dper/:dper', meeting.getByDper)
 app.get('/person', person.info);
 
 http.createServer(app).listen(app.get('port'), function(){
