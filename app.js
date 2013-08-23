@@ -1,12 +1,6 @@
- * Module dependencies.
- */
-
-
 var express = require('express')
 var routes = require('./routes')
-var person = require('./routes/person')
 var location = require('./routes/location')
-var user = require('./routes/user')
 var dper = require('./routes/dper')
 var card = require('./routes/card')
 var seat = require('./routes/seat')
@@ -40,9 +34,7 @@ if ('development' == app.get('env')) {
 app.get('/', routes.index)
 app.get('/card/name/:name', card.getByName)
 app.get('/card/dept/:dept', card.getByDept)
-
 app.get('/seat/:name', seat.getByName)
-app.get('/person', person.info)
 app.get('/location', location.info)
 app.get('/meeting/room/:email', meeting.getByEmail)
 app.get('/meeting/dper/:dper', meeting.getByDper)
