@@ -45,3 +45,4 @@ body{width:100%}
 .location-info li:first-child{color:#f10}
 .location-info li:nth-child(2){color:#f60}
 .location-info li:nth-child(3){color:#f90}
+.ul li{list-style:none}
