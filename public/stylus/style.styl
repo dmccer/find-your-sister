@@ -6,6 +6,7 @@ body
 
 .search-panel
 	width: 80%
+	padding: 40% 0
 	margin: 0 auto
 
 /* Form wrapper styling */
@@ -91,39 +92,38 @@ body
 .form-wrapper button::-moz-focus-inner  /* remove extra button spacing for Mozilla Firefox */
 	border: 0
 	padding: 0
-	
+
 .person-bg
 	width: 100%
 	height: 100%
-	background:	#FF7F00
-	z-index: -10
-	position: absolute
-	left: 0
-	top: 0
+	
+
 .person-up
-	width: 100%
-	height: 50%
-	z-index: -10
-	background: transparent
-	position: absolute
-	left: 0
-	top: 0
+	position: relative
+	background:	#FF7F00
+
 .person-down
+	height: 100%
+	overflow-y: auto
+	overflow-x: hidden
+
+.main
+	box-sizing: border-box
+	padding: 1em 1em 0
+	margin-bottom: 1em
+
+.name-panel
+	font-weight: normal
+	color: #ffffff
+	font-size: 2em
+
+.tab
 	width: 100%
-	height: 50%
-	z-index: -10
+
+.tab:before
 	position: absolute
-	background: #FFFFFF
-	left: 0
-	top: 50%
-	// -webkit-transition-property:height top
-	// -webkit-transition-duration:1s, 1s
-	// transition-property:height top
-	// transition-duration:1s, 1s
-.person-down:before  /* up arrow */
 	content: ''
-	position: absolute
-	border-width: 0px 12px 12px 12px
+	border-width: 0px 0.5em 0.5em 0.5em
 	border-style: solid solid solid solid
 	border-color: #FFFFFF transparent  
 	top: -12px
@@ -144,28 +144,58 @@ body
 	position: absolute
 	left:10%
 	top:-55px
+	bottom: -1px
+
+.person .tab:before
+	left: 23%
+
+.location .tab:before
+	left: 73%
 .tab-item
-	font-size:16px
-	color: white
-	font-family: "Microsoft YaHei" ! important
-	font-weight: normal
+	width: 50%
+	box-sizing: border-box
+	float: left
+	font-size: 1em
 	text-align: center
-	width: 100px
-	border-radius: 3px
+	font-weight: normal
+
+.tab-item a
+	display: block
+	padding: 0.8em
+	cursor: pointer
+	color: #ffffff
+
+.tab-content
+	padding-top: 1em
+	width: 100%
+	box-sizing: border-box
 	display: inline-block
-	padding: 10px
-	transition:background 0.5s
-	-webkit-transition:background 0.5s
-.tab-item:hover
-	background: rgba(255, 255, 255,.2)
-.tab-content li
-	border: 1px solid #CCC
-	border-style: none none solid none
-	width: 80%
-	height: 50px
-	margin-left: auto
-	margin-right: auto
-	margin-top: 10px
-	list-style-type:none
-	// -moz-box-shadow: 0px 1px 1px #CCC
-	// box-shadow: 0px 1px 1px #CCC
+	vertical-align: top
+
+.person-info dt
+	float: left
+	max-width: 4em
+	box-sizing: border-box
+	padding-left: 1em
+	padding: 0.5em 0 0.5em 1em
+
+.person-info dd
+	width: 100%
+	padding: 0.5em 1em 0.5em 5em
+	box-sizing: border-box
+
+.location-info
+	list-style: decimal inside
+
+.location-info li
+	padding: 0.5em 1em
+	color: #999999
+
+.location-info li:first-child
+	color: #ff1100
+
+.location-info li:nth-child(2)
+	color: #ff6600
+
+.location-info li:nth-child(3)
+	color: #ff9900
