@@ -10,7 +10,6 @@ exports.getByName = function (req, res) {
 	res.setHeader('content-type','text/json; charset=UTF-8')
 
 	var searchTime = +new Date
-	var deviation = 5*60*1000
 
 	var result = seatRecords.filter(function (item) {
 		return item.realName.indexOf(req.params.name) !== -1

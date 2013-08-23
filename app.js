@@ -36,7 +36,7 @@ app.get('/', routes.index)
 app.get('/users', user.list)
 app.get('/card/name/:name', card.getByName)
 app.get('/card/dept/:dept', card.getByDept)
-app.get('/seat/:name', seat.getByName)
+app.get('/seat/name/:name', seat.getByName)
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'))
