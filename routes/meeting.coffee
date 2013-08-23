@@ -1,7 +1,15 @@
 meetingRecords = require('../db/meeting').data
 
+exports.getByEmail = (req, res) ->
+	res.setHeader('content-type','text/json;charset=UTF-8')
+	res.json(200, queryMeeting('Email', req.params.email))	
+	return
+
+exports.getByDper = (req, res) ->
+	res.setHeader('content-type','text/json;charset=UTF-8')
+	res.json(200, queryDper('Name', req.params.dper))
+
 queryMeeting = (key, val) -> 
-	console.log(key, val)
 	
 	result = 
 		code: 500
@@ -28,12 +36,3 @@ queryDper = (key, val) ->
 
 	result.code = 200 if result.msg.length > 0
 	result	
-
-exports.getByEmail = (req, res) ->
-	res.setHeader('content-type','text/json;charset=UTF-8')
-	res.json(200, queryMeeting('Email', req.params.email))	
-	return
-
-exports.getByDper = (req, res) ->
-	res.setHeader('content-type','text/json;charset=UTF-8')
-	res.json(200, queryDper('Name', req.params.dper))

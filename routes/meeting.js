@@ -4,9 +4,18 @@
 
   meetingRecords = require('../db/meeting').data;
 
+  exports.getByEmail = function(req, res) {
+    res.setHeader('content-type', 'text/json;charset=UTF-8');
+    res.json(200, queryMeeting('Email', req.params.email));
+  };
+
+  exports.getByDper = function(req, res) {
+    res.setHeader('content-type', 'text/json;charset=UTF-8');
+    return res.json(200, queryDper('Name', req.params.dper));
+  };
+
   queryMeeting = function(key, val) {
     var result;
-    console.log(key, val);
     result = {
       code: 500,
       msg: null
@@ -40,16 +49,6 @@
       result.code = 200;
     }
     return result;
-  };
-
-  exports.getByEmail = function(req, res) {
-    res.setHeader('content-type', 'text/json;charset=UTF-8');
-    res.json(200, queryMeeting('Email', req.params.email));
-  };
-
-  exports.getByDper = function(req, res) {
-    res.setHeader('content-type', 'text/json;charset=UTF-8');
-    return res.json(200, queryDper('Name', req.params.dper));
   };
 
 }).call(this);
