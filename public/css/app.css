@@ -8,3 +8,4 @@ a{text-decoration:none;outline:none}
 .clearfix:before,.clearfix:after{display:table;line-height:0;content:""}
 .clearfix:after{clear:both}
 
+a{color:#aaa}
