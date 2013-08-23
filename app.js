@@ -40,6 +40,7 @@ app.get('/card/dept/:dept', card.getByDept)
 app.get('/seat/:name', seat.getByName)
 app.get('/meeting/room/:email', meeting.getByEmail)
 app.get('/meeting/dper/:dper', meeting.getByDper)
+app.get('/meeting/dper/:dper/now', meeting.get_deper_current_room)
 app.get('/dper/:employeeId', dper.getByEmployeeId)
 
 http.createServer(app).listen(app.get('port'), function(){
