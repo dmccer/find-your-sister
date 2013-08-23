@@ -1,0 +1,22 @@
+{
+  "name": "find-your-sister",
+  "version": "0.0.0",
+  "description": "find your sister",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dmccer/find-your-sister.git"
+  },
+  "keywords": [
+    "find",
+    "your",
+    "sister"
+  ],
+  "author": "Kane, BX, Pieux, LiSir",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "14464661e9ba4bd4a128338d9beacf17647c57d4"
+}
