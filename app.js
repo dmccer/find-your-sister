@@ -6,6 +6,8 @@ var express = require('express')
 var routes = require('./routes')
 var user = require('./routes/user')
 var card = require('./routes/card')
+var seat = require('./routes/seat')
+
 var http = require('http')
 var path = require('path')
 
@@ -37,6 +39,7 @@ app.use(function (req, res, next) {
 app.get('/', routes.index)
 app.get('/users', user.list)
 app.get('/card/:name', card.getByName)
+aop.get('/seat/:name', seat.getByName)
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'))
