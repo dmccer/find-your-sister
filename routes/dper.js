@@ -22,13 +22,8 @@
 
   exports.get_dper_today_meetings = function(req, res) {
     var meetings, result;
-    result = {
-      code: 200,
-      msg: null
-    };
-    meetings = meeting.queryDper("Name", req.params.name).msg;
-    console.log(meetings);
-    result.msg = meetings.map(function(item) {
+    meetings = meeting.queryDper("Name", req.params.name);
+    result = meetings.map(function(item) {
       var room;
       return room = {
         Name: req.params.name,
