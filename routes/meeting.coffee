@@ -17,6 +17,7 @@ queryMeeting = (key, val) ->
 	meetingRecords.filter (item) ->
 		item.MeetingRoom[key].indexOf(val) != -1
 
+# for out usage
 exports.queryDper = (key, val) ->
 	meetingRecords.filter (item) ->
 		dpers = item.Attendees.filter (dper) -> 

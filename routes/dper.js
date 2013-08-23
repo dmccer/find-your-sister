@@ -21,12 +21,19 @@
   };
 
   exports.get_dper_today_meetings = function(req, res) {
-    var meetings, result;
-    meetings = meeting.queryDper("Name", req.params.name);
+    var dper, dpers, meetings, result;
+    if (req.params.name !== null) {
+      meetings = meeting.queryDper("Name", req.params.name);
+    }
+    if (req.params.employeeId !== null) {
+      dpers = query('loginId', req.params.employeeId);
+    }
+    dper = dpers[0];
+    meetings = meeting.queryDper("Email", dpers[0].email);
     result = meetings.map(function(item) {
       var room;
       return room = {
-        Name: req.params.name,
+        Name: dper.realName,
         MeetingRoom: item.MeetingRoom,
         STime: item.STime,
         ETime: item.ETime
