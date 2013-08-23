@@ -19,7 +19,7 @@ queryMeeting = (key, val) ->
 		msg: null
 	
 	result.msg = meetingRecords.filter (item) ->
-		item.MeetingRoom.Email.indexOf(val) != -1
+		item.MeetingRoom[key].indexOf(val) != -1
 
 	result.code = 200 if result.msg.length > 0
 	result
@@ -32,7 +32,7 @@ queryDper = (key, val) ->
 	result.msg = meetingRecords.filter (item) ->
 
 		dpers = item.Attendees.filter (dper) ->
-		    dper.Name.indexOf(val) != -1 unless dper.Name == null  
+		    dper[key].indexOf(val) != -1 unless dper[key] == null  
 
 		return dpers.length > 0
 

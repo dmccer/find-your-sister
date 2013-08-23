@@ -26,7 +26,7 @@
       msg: null
     };
     result.msg = meetingRecords.filter(function(item) {
-      return item.MeetingRoom.Email.indexOf(val) !== -1;
+      return item.MeetingRoom[key].indexOf(val) !== -1;
     });
     if (result.msg.length > 0) {
       result.code = 200;
@@ -34,7 +34,7 @@
     return result;
   };
 
-  exports.queryDper = function(key, val) {
+  queryDper = function(key, val) {
     var result;
     result = {
       code: 500,
@@ -43,8 +43,8 @@
     result.msg = meetingRecords.filter(function(item) {
       var dpers;
       dpers = item.Attendees.filter(function(dper) {
-        if (dper.Name !== null) {
-          return dper.Name.indexOf(val) !== -1;
+        if (dper[key] !== null) {
+          return dper[key].indexOf(val) !== -1;
         }
       });
       return dpers.length > 0;

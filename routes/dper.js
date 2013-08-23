@@ -12,7 +12,12 @@
 
   exports.getByEmployeeId = function(req, res) {
     res.setHeader('content-type', 'text/json;charset=UTF-8');
-    return res.json(200, query('EmployeeId', req.params.employeeId));
+    return res.json(200, query('loginId', req.params.employeeId));
+  };
+
+  exports.getByName = function(req, res) {
+    res.setHeader('content-type', 'text/json;charset=UTF-8');
+    return res.json(200, query('realName', req.params.name));
   };
 
   exports.get_dper_today_meetings = function(req, res) {
@@ -37,18 +42,10 @@
   };
 
   query = function(key, val) {
-    var result;
-    result = {
-      code: 500,
-      msg: null
-    };
-    result.msg = sysRecords.filter(function(item) {
-      return item.loginId.indexOf(val) !== -1;
+    console.log(key, val);
+    return sysRecords.filter(function(item) {
+      return item[key].indexOf(val) !== -1;
     });
-    if (result.msg.length > 0) {
-      result.code = 200;
-    }
-    return result;
   };
 
 }).call(this);
