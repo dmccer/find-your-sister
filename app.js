@@ -32,14 +32,11 @@ if ('development' == app.get('env')) {
   app.use(express.errorHandler())
 }
 
-app.use(function (req, res, next) {
-	res.charset = 'utf-8'
-})
-
 app.get('/', routes.index)
 app.get('/users', user.list)
-app.get('/card/:name', card.getByName)
-aop.get('/seat/:name', seat.getByName)
+app.get('/card/name/:name', card.getByName)
+app.get('/card/dept/:dept', card.getByDept)
+app.get('/seat/:name', seat.getByName)
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'))

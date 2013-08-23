@@ -7,13 +7,13 @@ var seatRecords = require('../db/seat').data
  * @return {Array}	座位记录
  */
 exports.getByName = function (req, res) {
+	res.setHeader('content-type','text/json; charset=UTF-8')
+
 	var searchTime = +new Date
 	var deviation = 5*60*1000
 
-	var realName = '朱广彬'
-
 	var result = seatRecords.filter(function (item) {
-		return item.realName === realName 
+		return item.realName.indexOf(req.params.name) !== -1
 			//&& (searchTime - (new Date(item.time)).getTime()) < deviation
 	})
 
