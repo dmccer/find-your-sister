@@ -1,4 +1,5 @@
 var meeting = require('./meeting')
+var seat = require('./seat')
 /**
  * 根据姓名搜索个人位置记录和个人信息
  * @param  {String} realName 员工姓名
@@ -6,6 +7,10 @@ var meeting = require('./meeting')
  */
  exports.searchByName = function (req, res) {
 	res.setHeader('content-type','text/json; charset=UTF-8')
-	var meeting_rooms = meeting.queryDper('realName', req.params.name)
-	return meeting_rooms
+	var seatRecord = seat.query('realName', req.params.name)
+
+	res.json(200, seatRecord)
+
+//	var meeting_rooms = meeting.get_deper_current_room('realName', req.params.name)
+//	return meeting_rooms
 }

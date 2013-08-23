@@ -1,5 +1,12 @@
 var seatRecords = require('../db/seat').data
 
+var query = exports.query = function (key, val) {
+	var searchTime = +new Date
+
+	return seatRecords.filter(function (item) {
+		return item[key].indexOf(val) !== -1
+	})
+}
 
 /**
  * 根据姓名搜索座位记录
@@ -9,14 +16,7 @@ var seatRecords = require('../db/seat').data
 exports.getByName = function (req, res) {
 	res.setHeader('content-type','text/json; charset=UTF-8')
 
-	var searchTime = +new Date
-
-	var result = seatRecords.filter(function (item) {
-		return item.realName.indexOf(req.params.name) !== -1
-			//&& (searchTime - (new Date(item.time)).getTime()) < deviation
-	})
-
 	res.json(200, {
-		locs: result
+		locs: query('realName', req.params.name)
 	})
 }
