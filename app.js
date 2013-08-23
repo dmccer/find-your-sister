@@ -41,7 +41,8 @@ app.get('/meeting/dper/:dper', meeting.getByDper)
 app.get('/meeting/dper/:dper/now', meeting.get_deper_current_room)
 app.get('/dper/id/:employeeId', dper.getByEmployeeId)
 app.get('/dper/name/:name', dper.getByName)
-app.get('/dper/:name/meetings', dper.get_dper_today_meetings)
+app.get('/dper/name/:name/meetings', dper.get_dper_today_meetings)
+app.get('/dper/id/:employeeId/meetings', dper.get_dper_today_meetings)
 
 app.get('/search/name/:name', search.searchByName)
 

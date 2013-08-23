@@ -14,20 +14,20 @@ exports.getByName = (req, res) ->
 	res.json 200, query('realName', req.params.name)
 
 exports.get_dper_today_meetings = (req, res) ->
-	result = 
-		code: 200
-		msg: null
 
-	meetings = meeting.queryDper("Name", req.params.name).msg
-	console.log meetings
+	meetings = meeting.queryDper("Name", req.params.name) unless req.params.name == null
+	
+	dpers = query('loginId', req.params.employeeId)  unless req.params.employeeId == null
+	dper = dpers[0]
 
-	result.msg = meetings.map (item) ->
+	meetings = meeting.queryDper("Email", dpers[0].email)
+
+	result = meetings.map (item) ->
 		room =
-			Name: req.params.name
+			Name: dper.realName
 			MeetingRoom : item.MeetingRoom
 			STime : item.STime
 			ETime : item.ETime
-		
 
 	res.setHeader 'content-type','text/json;charset=UTF-8'
 	res.json 200, result
