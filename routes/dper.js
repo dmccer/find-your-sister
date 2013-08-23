@@ -13,19 +13,10 @@
     return res.json(200, query('EmployeeId', req.params.employeeId));
   };
 
-  query = function(key, val) {
-    var result;
-    result = {
-      code: 500,
-      msg: null
-    };
-    result.msg = sysRecords.filter(function(item) {
-      return item.loginId.indexOf(val) !== -1;
+  query = exports.query = function(key, val) {
+    return sysRecords.filter(function(item) {
+      return item[key].indexOf(val) !== -1;
     });
-    if (result.msg.length > 0) {
-      result.code = 200;
-    }
-    return result;
   };
 
 }).call(this);

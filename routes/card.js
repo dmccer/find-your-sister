@@ -1,6 +1,6 @@
 var cardRecords = require('../db/card').data
 
-var query = function (by, val) {
+var query = exports.query = function (by, val) {
 	var searchTime = new Date()
 
 	var startRecordTime = (new Date(searchTime.getFullYear(), searchTime.getMonth(), searchTime.getDate() - 1, 0, 0, 0)).getTime()
@@ -14,8 +14,6 @@ var query = function (by, val) {
 			&& recordTime >= startRecordTime
 			&& recordTime <= searchTime.getTime() - 24*60*60*1000
 	})
-
-	console.log(by, val)
 
 	oneDayResult.sort(function (a, b) {
 		return (new Date(b.time)).getTime() - (new Date(a.time)).getTime()
