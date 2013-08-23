@@ -7,10 +7,6 @@ exports.getByEmail = (req, res) ->
 
 exports.getByDper = (req, res) ->
 	res.setHeader('content-type','text/json;charset=UTF-8')
-
-	console.log +new Date("2013-" + "02-10T13:00")
-	console.log +new Date("2013-" + "02-10T14:00")
-
 	res.json(200, queryDper('Name', req.params.dper))
 
 exports.get_deper_current_room = (req, res) ->
@@ -21,19 +17,13 @@ exports.get_deper_current_room = (req, res) ->
 	room_list = queryDper('Name', req.params.dper).msg
 	
 	current_time = +new Date
-	
 	current_room = room_list.filter (room) ->
 		start_time = +new Date("2013-" + room.STime)
 		end_time = +new Date("2013-" + room.ETime)
-		console.log start_time
-		console.log current_time
-		console.log end_time
 		current_time >= start_time and current_time <= end_time
 
-	console.log current_room.length
 	result.code = 200
 	result.msg = if current_room.length == 0 then "他／她暂时不在开会，难道就在座位上？！" else current_room
-	console.log result.msg
 
 	res.setHeader('content-type','text/json;charset=UTF-8')
 	res.json(200, result)
