@@ -46,4 +46,8 @@ body{width:100%}
 .location-info li:first-child{color:#f10}
 .location-info li:nth-child(2){color:#f60}
 .location-info li:nth-child(3){color:#f90}
-.ul li{list-style:none}
+.autoComplete{border:1px solid #ccc;border-style:none solid solid solid;list-style:none;position:absolute;margin:2.5em auto;box-sizing:border-box;width:56%}
+.autoComplete li{background:#fff}
+.autoComplete li:hover{background:#e54040}
+.autoComplete a{color:#000;display:block}
+.autoComplete a:hover{color:#fff}
