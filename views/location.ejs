@@ -11,25 +11,25 @@
         <div class="person-bg">
             <div class="person-up location">          
                 <div class="main">
-                    <h2 class="name-panel"><span></span>奚杉杉</h2>
+                    <h2 class="name-panel"><%= realName %></h2>
                 </div>
                 <div class="tab clearfix">
-                    <h3 class="tab-item"><a href="/person">个人信息</a></h3>
-                    <h3 class="tab-item"><a href="/location">他在哪里？</a></h3>
+                    <h3 class="tab-item"><a href="/dper/id/<%= loginId %>">个人信息</a></h3>
+                    <h3 class="tab-item"><a href="#">他在哪里？</a></h3>
                 </div>
             </div>
 
             <div class="person-down">
                 <div class="tab-container clearfix">
                     <ol class="tab-content location-info">
+                        <li><b><%= location %></b></li>
+                        <!-- <li><b>某个会议室</b></li>
                         <li><b>某个会议室</b></li>
                         <li><b>某个会议室</b></li>
                         <li><b>某个会议室</b></li>
                         <li><b>某个会议室</b></li>
                         <li><b>某个会议室</b></li>
-                        <li><b>某个会议室</b></li>
-                        <li><b>某个会议室</b></li>
-                        <li><b>某个会议室</b></li>
+                        <li><b>某个会议室</b></li> -->
                     </ol>
                 </div>
             </div>

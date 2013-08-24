@@ -1,24 +1,36 @@
 var cardRecords = require('../db/card').data
 
 var query = exports.query = function (by, val) {
+	var ODT = 24*60*60*1000
 	var searchTime = new Date()
+	var dataTime = new Date()
 
-	var startRecordTime = (new Date(searchTime.getFullYear(), searchTime.getMonth(), searchTime.getDate() - 1, 0, 0, 0)).getTime()
-	var endRecordTime = (new Date(searchTime.getFullYear(), searchTime.getMonth(), searchTime.getDate() - 1, 23, 59, 59)).getTime()
+	dataTime.setFullYear(2013)
+	dataTime.setMonth(7)
+	dataTime.setDate(22)
+
+	var gapTime = searchTime.getTime() - dataTime.getTime()
+	var gapDays = Math.floor(gapTime/ODT)
+
+	var startRecordDate = new Date(searchTime.getFullYear(), searchTime.getMonth(), searchTime.getDate() - gapDays, 0, 0, 0)
+	var startRecordTime = startRecordDate.getTime()
+	var endRecordDate = new Date(searchTime.getFullYear(), searchTime.getMonth(), searchTime.getDate() - gapDays, 23, 59, 59)
+	var endRecordTime = endRecordDate.getTime()
 
 	var oneDayResult = cardRecords.filter(function (item) {
-		var recordTime = (new Date(item.time)).getTime()
+		var recordDate = new Date(item.time)
+		var recordTime = recordDate.getTime()
 
 		return item[by].indexOf(val) !== -1
 			&& recordTime <= endRecordTime
 			&& recordTime >= startRecordTime
-			&& recordTime <= searchTime.getTime() - 24*60*60*1000
+			&& recordTime <= searchTime.getTime() - gapDays * ODT
 	})
 
 	oneDayResult.sort(function (a, b) {
 		return (new Date(b.time)).getTime() - (new Date(a.time)).getTime()
 	})
-
+	
 	if (oneDayResult.length) {
 		return oneDayResult[0]
 	}

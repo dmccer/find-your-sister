@@ -11,30 +11,38 @@
         <div class="person-bg">
             <div class="person-up person">
                 <div class="main">
-                    <h2 class="name-panel"><span></span>奚杉杉</h2>
+                    <h2 class="name-panel"><%= realName %></h2>
                 </div>
                 <div class="tab clearfix">
-                    <h3 class="tab-item"><a href="/person">个人信息</a></h3>
-                    <h3 class="tab-item"><a href="/location">他在哪里？</a></h3>
+                    <h3 class="tab-item"><a href="#">个人信息</a></h3>
+                    <h3 class="tab-item"><a href="/location/<%= loginId %>">他在哪里？</a></h3>
                 </div>
             </div>
 
             <div class="person-down">
                 <div class="tab-container clearfix">
-                    <dl class="tab-content person-info clearfix">
-                        <dt>姓名：</dt>
-                        <dd><b>张三丰</b></dd>
-                        <dt>手机：</d>
-                        <dd><b>13821234592</b></dd>
-                        <dt>部门：</dt>
-                        <dd><b>业务系统技术上海</b></dd>
-                        <dt>Email：</dt>
-                        <dd><b>dmccer@gmail.com</b></dd>
-                        <dt>座位：</dt>
-                        <dd><b>C5-01-02</b></dd>
-                        <dt>工号：</dt>
-                        <dd><b>90001292</b></dd>
-                    </dl>
+                    <ul class="tab-content person-info clearfix">
+                        <li>
+                            <span class="label">手机：</span>
+                            <b><%= mobileNumber %></b>
+                        </li>
+                        <li>
+                            <span class="label">部门：</span>
+                            <b><%= department %></b>
+                        </li>
+                        <li>
+                            <span class="label">Email：</span>
+                            <b><%= email %></b>
+                        </li>
+                        <li>
+                            <span class="label">座位：</span>
+                            <b><%= seatNumber %></b>
+                        </li>
+                        <li>
+                            <span class="label">工号：</span>
+                            <b><%= loginId %></b>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div> 

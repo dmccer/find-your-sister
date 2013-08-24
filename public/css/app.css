@@ -30,16 +30,20 @@ body{width:100%}
 .main{box-sizing:border-box;padding:1em 1em 0;margin-bottom:1em}
 .name-panel{font-weight:normal;color:#fff;font-size:2em}
 .tab{width:100%}
-.tab:before{position:absolute;content:'';border-width:0 .5em .5em .5em;border-style:solid solid solid solid;border-color:#fff transparent;bottom:-1px}
+.tab:before{position:absolute;content:'';border-width:0 .5em .5em .5em;border-style:solid solid solid solid;border-color:#fff transparent;left:10%;bottom:-1px;z-index:10}
 .person .tab:before{left:23%}
 .location .tab:before{left:73%}
 .tab-item{width:50%;box-sizing:border-box;float:left;font-size:1em;text-align:center;font-weight:normal}
 .tab-item a{display:block;padding:.8em;cursor:pointer;color:#fff}
-.tab-content{padding-top:1em;width:100%;box-sizing:border-box;display:inline-block;vertical-align:top}
-.person-info dt{float:left;max-width:4em;box-sizing:border-box;padding-left:1em;padding:.5em 0 .5em 1em}
-.person-info dd{width:100%;padding:.5em 1em .5em 5em;box-sizing:border-box}
+.tab-content{padding:1em auto;width:100%;box-sizing:border-box;display:inline-block;vertical-align:top}
+.person-info{list-style:none}
+.person-info li{width:100%;float:left}
+.person-info li span,.person-info li b{display:inline-block;box-sizing:border-box}
+.person-info li span{float:left;width:5em;padding-left:1em;padding:.5em 0 .5em 1em;color:#777}
+.person-info li b{padding:.5em 1em .5em .5em}
 .location-info{list-style:decimal inside}
 .location-info li{padding:.5em 1em;color:#999}
 .location-info li:first-child{color:#f10}
 .location-info li:nth-child(2){color:#f60}
 .location-info li:nth-child(3){color:#f90}
+.ul li{list-style:none}

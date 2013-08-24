@@ -126,7 +126,9 @@ body
 	border-width: 0px 0.5em 0.5em 0.5em
 	border-style: solid solid solid solid
 	border-color: #FFFFFF transparent  
+	left: 10%
 	bottom: -1px
+	z-index: 10
 
 .person .tab:before
 	left: 23%
@@ -149,23 +151,33 @@ body
 	color: #ffffff
 
 .tab-content
-	padding-top: 1em
+	padding: 1em auto
 	width: 100%
 	box-sizing: border-box
 	display: inline-block
 	vertical-align: top
 
-.person-info dt
+.person-info
+	list-style: none
+
+.person-info li
+	width: 100%
 	float: left
-	max-width: 4em
+
+.person-info li span,
+.person-info li b
+	display: inline-block
 	box-sizing: border-box
+
+.person-info li span
+	float: left
+	width: 5em
 	padding-left: 1em
 	padding: 0.5em 0 0.5em 1em
+	color: #777777
 
-.person-info dd
-	width: 100%
-	padding: 0.5em 1em 0.5em 5em
-	box-sizing: border-box
+.person-info li b
+	padding: 0.5em 1em 0.5em 0.5em
 
 .location-info
 	list-style: decimal inside
@@ -182,4 +194,5 @@ body
 
 .location-info li:nth-child(3)
 	color: #ff9900
-
+.ul li
+	list-style: none
