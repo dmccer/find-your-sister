@@ -12,6 +12,7 @@
                     url: "/dper/name/" + str,
                     dataType: "json",
                     success: function(data) {
+                        console.log(data)
                         var ul = $('#acList')
                         var html = ""
                         var len = 0

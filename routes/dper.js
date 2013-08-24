@@ -29,7 +29,13 @@
 
   query = exports.query = function(key, val) {
     return sysRecords.filter(function(item) {
-      return item[key].indexOf(val) !== -1;
+      var result;
+      if (key === 'loginId') {
+        result = item.loginId === val;
+      } else {
+        result = item[key].indexOf(val) !== -1;
+      }
+      return result;
     });
   };
 

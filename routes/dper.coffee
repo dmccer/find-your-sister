@@ -25,7 +25,12 @@ exports.getByEmployeeId = (req, res) ->
 
 query = exports.query = (key, val) ->
 	sysRecords.filter (item) ->
-		item[key].indexOf(val) != -1
+		if key == 'loginId'
+			result = item.loginId == val
+		else
+			result = item[key].indexOf(val) != -1
+
+		result
 	
 exports.getByName = (req, res) ->
 	res.setHeader 'content-type', 'text/json;charset=UTF-8'

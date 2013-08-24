@@ -12,6 +12,8 @@ var search = exports.search = function (loginId) {
 		return 
 	}
 
+	// console.log(personInfo)
+
 	personInfo = personInfo[0]
 
 	personInfo.location = '没找到他人'
@@ -34,22 +36,31 @@ var search = exports.search = function (loginId) {
 		// 有打卡记录
 		if (loc.indexOf('进门') !== -1) {
 			var doorLoc = loc.replace('[进门]', '')
+			var seatLoc = null
 
 			if (doorLoc.indexOf('-') !== -1) {
 				doorLoc = doorLoc.split('-')[0]
 			}
 
-			if (seatRecord[0].seatNumber.indexOf('-') !== -1) {
-				var seatLoc = seatRecord[0].seatNumber.split('-')[0]
-			}
+			if (seatRecord && seatRecord.length) {
+				seatLoc = seatRecord[0].seatNumber
 
-			if (doorLoc.indexOf(seatLoc) === 0) {
-				personInfo.location = '应该在座位上' +  seatRecord[0].seatNumber
-				return personInfo
+				if (seatLoc.indexOf('-') !== -1) {
+					seatLoc = seatLoc.split('-')[0]
+				}
+
+				if (doorLoc.indexOf(seatLoc) === 0) {
+					personInfo.location = '应该在座位上' +  seatLoc
+					return personInfo
+				}
 			}
 
 			personInfo.location = '应该在' + doorLoc
+			return personInfo
+		}
 
+		if (!seatRecord || !seatRecord.length) {
+			personInfo.location = '此人坐在火星某块石头上'
 			return personInfo
 		}
 
