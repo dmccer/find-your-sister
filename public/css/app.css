@@ -11,7 +11,7 @@ a{text-decoration:none;outline:none}
 body{width:100%}
 .main{width:100%}
 .search-panel{width:80%;padding:40% 0;margin:0 auto}
-.form-wrapper{padding:15px;background:#444;background:rgba(0,0,0,0.2);border-radius:10px;box-shadow:0 1px 1px rgba(0,0,0,0.4) inset,0 1px 0 rgba(255,255,255,0.2)}
+.form-wrapper{position:absolute;padding:15px;background:#444;background:rgba(0,0,0,0.2);border-radius:10px;box-shadow:0 1px 1px rgba(0,0,0,0.4) inset,0 1px 0 rgba(255,255,255,0.2)}
 .form-wrapper input{box-sizing:border-box;width:80%;padding:11px 5px;float:left;font:bold 15px 'lucida sans','trebuchet MS','Tahoma';border:0;background:#eee;border-radius:3px 0 0 3px}
 .form-wrapper input:focus{outline:0;background:#fff;box-shadow:0 0 2px rgba(0,0,0,0.8) inset}
 .form-wrapper input::-webkit-input-placeholder{color:#999;font-weight:normal;font-style:normal}
@@ -46,7 +46,7 @@ body{width:100%}
 .location-info li:first-child{color:#f10}
 .location-info li:nth-child(2){color:#f60}
 .location-info li:nth-child(3){color:#f90}
-.autoComplete{border:1px solid #ccc;border-style:none solid solid solid;list-style:none;position:absolute;margin:2.5em auto;box-sizing:border-box;width:56%}
+.autoComplete{border:1px solid #ccc;list-style:none;position:absolute;width:88%;top:3.3em;box-sizing:border-box}
 .autoComplete li{background:#fff}
 .autoComplete li:hover{background:#e54040}
 .autoComplete a{color:#000;display:block}

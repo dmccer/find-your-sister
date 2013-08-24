@@ -43,8 +43,8 @@
     current_time = +(new Date);
     current_room = room_list.filter(function(room) {
       var end_time, start_time;
-      start_time = +new Date("2013-" + room.STime);
-      end_time = +new Date("2013-" + room.ETime);
+      start_time = +new Date("2013-" + room.STime.replace('T', ' ') + ':00');
+      end_time = +new Date("2013-" + room.ETime.replace('T', ' ') + ':00');
       return current_time >= start_time && current_time <= end_time;
     });
     return result = current_room.length === 0 ? "他／她暂时不在开会，难道就在座位上？！" : current_room;
@@ -54,7 +54,7 @@
     return meetingRecords.filter(function(item) {
       var dpers;
       dpers = item.Attendees.filter(function(dper) {
-        if (dper.Name !== null) {
+        if (dper[key] !== null) {
           return dper[key].indexOf(val) !== -1;
         }
       });
@@ -74,9 +74,11 @@
     gapTime = currentDate.getTime() - dataTime.getTime();
     gapDays = Math.floor(gapTime / ODT);
     currentRooms = roomList.filter(function(room) {
-      var currentTime, endTime, startTime;
-      startTime = +new Date(currentDate.getFullYear() + '-' + room.STime);
-      endTime = +new Date(currentDate.getFullYear() + '-' + room.ETime);
+      var currentTime, endDate, endTime, startDate, startTime;
+      startDate = new Date(currentDate.getFullYear() + '-' + room.STime.replace('T', ' ') + ':00');
+      startTime = startDate.getTime();
+      endDate = new Date(currentDate.getFullYear() + '-' + room.ETime.replace('T', ' ') + ':00');
+      endTime = endDate.getTime();
       currentTime = currentDate.getTime() - gapDays * ODT;
       return currentTime >= startTime && currentTime <= endTime;
     });

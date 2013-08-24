@@ -12,13 +12,10 @@ var search = exports.search = function (loginId) {
 		return 
 	}
 
-	// console.log(personInfo)
-
 	personInfo = personInfo[0]
 
 	personInfo.location = '没找到他人'
 	personInfo.title = '位置'
-
 
 	// 当天没有打卡记录
 	if (!cardRecord) {

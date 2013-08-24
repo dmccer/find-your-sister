@@ -29,8 +29,8 @@ queryDper_current_room = (key, val) ->
 	current_time = +new Date
 
 	current_room = room_list.filter (room) ->
-		start_time = +new Date("2013-" + room.STime)
-		end_time = +new Date("2013-" + room.ETime)
+		start_time = +new Date("2013-" + room.STime.replace('T', ' ') + ':00')
+		end_time = +new Date("2013-" + room.ETime.replace('T', ' ') + ':00')
 		current_time >= start_time and current_time <= end_time
 
 	result = if current_room.length == 0 then "他／她暂时不在开会，难道就在座位上？！" else current_room
@@ -39,7 +39,7 @@ queryDper_current_room = (key, val) ->
 query = exports.query = (key, val) ->
 	meetingRecords.filter (item) ->
 		dpers = item.Attendees.filter (dper) ->
-		    dper[key].indexOf(val) != -1 unless dper.Name == null  
+		    dper[key].indexOf(val) != -1 unless dper[key] == null  
 
 		return dpers.length > 0
 
@@ -58,15 +58,19 @@ queryCurrentMeetingRoom = exports.queryCurrentMeetingRoom = (email) ->
 	gapDays = Math.floor(gapTime/ODT)
 
 	currentRooms = roomList.filter (room) ->
-		startTime = +new Date(currentDate.getFullYear() + '-' + room.STime)
-		endTime = +new Date(currentDate.getFullYear() + '-' + room.ETime)
+		startDate = new Date(currentDate.getFullYear() + '-' + room.STime.replace('T', ' ') + ':00')
+		startTime = startDate.getTime()
+		endDate = new Date(currentDate.getFullYear() + '-' + room.ETime.replace('T', ' ') + ':00')
+		endTime = endDate.getTime()
+
 		currentTime = currentDate.getTime() - gapDays * ODT
 		currentTime >= startTime and currentTime <= endTime
-	
+
 	currentRoom = currentRooms.sort (a, b) ->
 		aStartTime = +new Date(currentDate.getFullYear() + '-' + a.STime)
 		bStartTime = +new Date(currentDate.getFullYear() + '-' + b.STime)
 
 		aStartTime - bStartTime > 0
-
+	
 	result = if currentRoom.length then currentRoom[0] else null
+

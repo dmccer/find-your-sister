@@ -1,5 +1,19 @@
 exports.data = [{
     "MeetingRoom": {
+        "Name": "sh-A4爱琴海 中等(12) 无",
+        "Email": "dianping.com_32333533353634312d383831@resource.calendar.google.com"
+    },
+    "STime": "08-23T13:00",
+    "ETime": "08-23T14:00",
+    "Attendees": [{
+        "Name": "sh-A4爱琴海 中等(12) 无投影",
+        "Email": "dianping.com_32333533353634312d383831@resource.calendar.google.com"
+    }, {
+        "Name": "奚杉杉",
+        "Email": "shanshan.xi@dianping.com"
+    }]
+}, {
+    "MeetingRoom": {
         "Name": "sh-A313有木有 较大(16) 投影",
         "Email": "dianping.com_2d3637343231323330@resource.calendar.google.com"
     },
