@@ -499,6 +499,23 @@ exports.data = [{
         "Name": "林奔",
         "Email": "ben.lin@dianping.com"
     }]
+},{
+    "MeetingRoom": {
+        "Name": "sh-A4爱琴海 中等(12) 无",
+        "Email": "dianping.com_32333533353634312d383831@resource.calendar.google.com"
+    },
+    "STime": "08-22T13:00",
+    "ETime": "08-22T14:00",
+    "Attendees": [{
+        "Name": "奚杉杉",
+        "Email": "shanshan.xi@dianping.com"
+    }, {
+        "Name": "sh-A4爱琴海 中等(12) 无投影",
+        "Email": "dianping.com_32333533353634312d383831@resource.calendar.google.com"
+    }, {
+        "Name": "杨宇辰",
+        "Email": "yuchen.yang@dianping.com"
+    }]
 }, {
     "MeetingRoom": {
         "Name": "sh-A4钓鱼岛 较大(24) 投影",
